@@ -1,11 +1,11 @@
 {
-  "version": "0.3.3",
-  "notes": "Open a ticket in its own window, or a second full window (Ctrl+Shift+N or the tray). Edit a saved entry's hours and note. Assign a ticket to someone else.",
-  "pub_date": "2026-11-03T22:10:13Z",
+  "version": "0.3.4",
+  "notes": "New: Cleanup in the sidebar. It lists your open tickets that look stale (open 30+ days with no time logged, or nobody has touched them in 2+ weeks), with a short reason under each. Tick the ones that are done and close them together; nobody is emailed. Keep hides one for 30 days.",
+  "pub_date": "2026-11-03T22:42:41Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFE4bXo5OFJ5am1XUHVxZms4Y3lRSlA0YnBwdnMzcmhnRlhKaXZYQ1UranJ5RUJHdDlrVEwrVzRBeCtxcHJXUldGVm5OVTlvUWdiS3VpQk9IUUhoRXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQzODA4CWZpbGU6VGltZUJvdC1Kci0wLjMuMy1XaW5kb3dzLXNldHVwLmV4ZQpjYW1kZDliQi9pbVRZaGVWL3Q3M2NZRzN0bmZpREtRaUNoZnVBdFdmUTFrSDdoOVBzYXNjRTBhMFVJQU40eTF6eTRmWm1WRW5SdEVuL0I4NkVoVFhBUT09Cg==",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.3/TimeBot-Jr-0.3.3-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFVMV2NwZENiUGQ3M01iNzJFbWVWK0lDQVRaMFordU90UVI5SXlYOWZmQlJYMjViOHF2enZHbTV4bXhrNHFoNWM1Sk9TR3IxeWdDMVJJd2RTZm5ZNFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQ1NzU2CWZpbGU6VGltZUJvdC1Kci0wLjMuNC1XaW5kb3dzLXNldHVwLmV4ZQorWjEwVU1lZzZlM0UzNW1EOG1hWGp1T1lIdWxKODQyQjJDT3YrUjhrMkptcUVSSE1PMzRabzFwaXRidkZ3d3BYcjVERXFnLy91SGUyY3ozWVh0MDhDQT09Cg==",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.4/TimeBot-Jr-0.3.4-Windows-setup.exe"
     }
   }
 }
