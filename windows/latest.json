@@ -1,11 +1,11 @@
 {
-  "version": "0.3.2",
-  "notes": "Edit a saved entry's hours and note from My time or a ticket. Assign a ticket to someone else from the right-click menu or the ticket's owner.",
-  "pub_date": "2026-11-03T22:03:23Z",
+  "version": "0.3.3",
+  "notes": "Open a ticket in its own window, or a second full window (Ctrl+Shift+N or the tray). Edit a saved entry's hours and note. Assign a ticket to someone else.",
+  "pub_date": "2026-11-03T22:10:13Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFJNME1aY1BCNklNL2ZydUJPME9wN1psUHVlZmNtbEJ0eUhqa3VIQS9NUFNQeklaU2ZFdkhYNGhKNzRiZkdyRTZxRkt0NlRoQ2w5dEcxYWszdSs1UlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQzMzk2CWZpbGU6VGltZUJvdC1Kci0wLjMuMi1XaW5kb3dzLXNldHVwLmV4ZQpCOTNaTm1hYlg2bW9nQjM4QXpqTlc2ejV5dlRtOTBCTkhCNWEyMS9wZm5kdE1YaVJmQU44MWdaY25xekEybUpzclU4L3Qyd3RZUVVIemR2eDM2UFVBUT09Cg==",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.2/TimeBot-Jr-0.3.2-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFE4bXo5OFJ5am1XUHVxZms4Y3lRSlA0YnBwdnMzcmhnRlhKaXZYQ1UranJ5RUJHdDlrVEwrVzRBeCtxcHJXUldGVm5OVTlvUWdiS3VpQk9IUUhoRXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQzODA4CWZpbGU6VGltZUJvdC1Kci0wLjMuMy1XaW5kb3dzLXNldHVwLmV4ZQpjYW1kZDliQi9pbVRZaGVWL3Q3M2NZRzN0bmZpREtRaUNoZnVBdFdmUTFrSDdoOVBzYXNjRTBhMFVJQU40eTF6eTRmWm1WRW5SdEVuL0I4NkVoVFhBUT09Cg==",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.3/TimeBot-Jr-0.3.3-Windows-setup.exe"
     }
   }
 }
