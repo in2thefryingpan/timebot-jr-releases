@@ -1,11 +1,11 @@
 {
-  "version": "0.3.0",
-  "notes": "Updates itself from now on: it checks when it starts and once a day, or use Check for updates in Settings or the tray menu. Faster refresh.",
-  "pub_date": "2026-11-03T19:48:39Z",
+  "version": "0.3.2",
+  "notes": "Edit a saved entry's hours and note from My time or a ticket. Assign a ticket to someone else from the right-click menu or the ticket's owner.",
+  "pub_date": "2026-11-03T22:03:23Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFdjMC8rZHVkd25HcStVeVY0ajE3V0RpS1p2cWR2Qml5UW55cDY3Q1dBUlZEUUdXNUV0MTZDbDc2TEwvOWd1N3dmeHpNZHRva0pWN3J5K1ZhNitQOXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM1MzE0CWZpbGU6VGltZUJvdC1Kci0wLjMuMC1XaW5kb3dzLXNldHVwLmV4ZQppK3UyVTN6K1IzU1doKzV3cmJOM0pOWUN2bXRQMzczRkN2Zm02Q1JxcDdFN3hMejhHcmJwWDVsMkVvZURFbk50LzJ4RUJxZm5ISGVXQ2lhNkgzRzJDZz09Cg==",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.0/TimeBot-Jr-0.3.0-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFJNME1aY1BCNklNL2ZydUJPME9wN1psUHVlZmNtbEJ0eUhqa3VIQS9NUFNQeklaU2ZFdkhYNGhKNzRiZkdyRTZxRkt0NlRoQ2w5dEcxYWszdSs1UlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQzMzk2CWZpbGU6VGltZUJvdC1Kci0wLjMuMi1XaW5kb3dzLXNldHVwLmV4ZQpCOTNaTm1hYlg2bW9nQjM4QXpqTlc2ejV5dlRtOTBCTkhCNWEyMS9wZm5kdE1YaVJmQU44MWdaY25xekEybUpzclU4L3Qyd3RZUVVIemR2eDM2UFVBUT09Cg==",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.2/TimeBot-Jr-0.3.2-Windows-setup.exe"
     }
   }
 }
