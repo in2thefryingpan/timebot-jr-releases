@@ -1,11 +1,11 @@
 {
-  "version": "0.3.4",
-  "notes": "New: Cleanup in the sidebar. It lists your open tickets that look stale (open 30+ days with no time logged, or nobody has touched them in 2+ weeks), with a short reason under each. Tick the ones that are done and close them together; nobody is emailed. Keep hides one for 30 days.",
-  "pub_date": "2026-11-03T22:42:41Z",
+  "version": "0.3.5",
+  "notes": "New: if you're away from the computer for 15 minutes (or it sleeps) while a timer runs, the app asks when you're back: keep the time, drop the away time, or pause the timer at when you left. Change or turn it off in Settings > Timer.",
+  "pub_date": "2026-11-03T23:03:50Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFVMV2NwZENiUGQ3M01iNzJFbWVWK0lDQVRaMFordU90UVI5SXlYOWZmQlJYMjViOHF2enZHbTV4bXhrNHFoNWM1Sk9TR3IxeWdDMVJJd2RTZm5ZNFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQ1NzU2CWZpbGU6VGltZUJvdC1Kci0wLjMuNC1XaW5kb3dzLXNldHVwLmV4ZQorWjEwVU1lZzZlM0UzNW1EOG1hWGp1T1lIdWxKODQyQjJDT3YrUjhrMkptcUVSSE1PMzRabzFwaXRidkZ3d3BYcjVERXFnLy91SGUyY3ozWVh0MDhDQT09Cg==",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.4/TimeBot-Jr-0.3.4-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGE0MmZINnJza1FZSktiNmFiQnBUQnk3ZWl3b1NIc2NUaXNndTBjejFJYkhDVWZCN2QyMnMvZ25uUHgvNG9UcjFFUlFqRjV5OXkrUnU1Mk5yeXJjbFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQ3MDI0CWZpbGU6VGltZUJvdC1Kci0wLjMuNS1XaW5kb3dzLXNldHVwLmV4ZQorNWt4eTMxMGtYTFVVR1U0eG5WVk9LZEg3aHp5bTVDK2RHWkw5VWZrdDRrdUJqRmpiREp4STdXcHI3aGFTM2NXOHRJWVQyVTZXaHprWjdIV3hxSWxEQT09Cg==",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.5/TimeBot-Jr-0.3.5-Windows-setup.exe"
     }
   }
 }
