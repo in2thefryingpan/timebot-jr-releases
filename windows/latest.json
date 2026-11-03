@@ -1,0 +1,11 @@
+{
+  "version": "0.3.0",
+  "notes": "Updates itself from now on: it checks when it starts and once a day, or use Check for updates in Settings or the tray menu. Faster refresh.",
+  "pub_date": "2026-11-03T19:48:39Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFdjMC8rZHVkd25HcStVeVY0ajE3V0RpS1p2cWR2Qml5UW55cDY3Q1dBUlZEUUdXNUV0MTZDbDc2TEwvOWd1N3dmeHpNZHRva0pWN3J5K1ZhNitQOXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM1MzE0CWZpbGU6VGltZUJvdC1Kci0wLjMuMC1XaW5kb3dzLXNldHVwLmV4ZQppK3UyVTN6K1IzU1doKzV3cmJOM0pOWUN2bXRQMzczRkN2Zm02Q1JxcDdFN3hMejhHcmJwWDVsMkVvZURFbk50LzJ4RUJxZm5ISGVXQ2lhNkgzRzJDZz09Cg==",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.0/TimeBot-Jr-0.3.0-Windows-setup.exe"
+    }
+  }
+}
