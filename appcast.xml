@@ -4,6 +4,15 @@
     <title>TimeBot Jr.</title>
     <item>
       <title>TimeBot Jr. 0.3.0</title>
+      <pubDate>Tue, 03 Nov 2026 14:11:19 -0500</pubDate>
+      <sparkle:version>202611031408</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Sort My tickets, close tickets straight from the right-click menu (or several at once), a site picker on new tickets for multi-site clients, and fixes.</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.0-202611031408/TimeBot-Jr-0.3.0.zip" type="application/octet-stream" sparkle:edSignature="Q+jIkJTgkRV/z8mAkWQEkKJJ4E7WVu1mQQ9/qcVJX2Tli7g9NUf7g39NviiMD0bGwXo9CTbzcGTUYtKsyxljCQ==" length="4859933" />
+    </item>
+    <item>
+      <title>TimeBot Jr. 0.3.0</title>
       <pubDate>Tue, 03 Nov 2026 13:22:13 -0500</pubDate>
       <sparkle:version>202611031317</sparkle:version>
       <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
