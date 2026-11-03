@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.2</title>
+      <pubDate>Tue, 03 Nov 2026 18:00:44 -0500</pubDate>
+      <sparkle:version>202611031758</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New: if you&#x27;re away from the Mac for 15 minutes (or it sleeps) while a timer runs, the app asks when you&#x27;re back: keep the time, drop the away time, or pause the timer at when you left. Change or turn it off in Settings &gt; Time entry.</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.2-202611031758/TimeBot-Jr-0.3.2.zip" type="application/octet-stream" sparkle:edSignature="Zii8sesYLOfl3xkv/kVN0u0NsSt9+fkkZBT5M0IT6TCtVUeS27wJmXF0Y+afawO+e+gk0FRcH4xQHARcw0UBCg==" length="5062162" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.1</title>
       <pubDate>Tue, 03 Nov 2026 17:46:42 -0500</pubDate>
       <sparkle:version>202611031744</sparkle:version>
