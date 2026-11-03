@@ -2,5 +2,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>TimeBot Jr.</title>
+    <item>
+      <title>TimeBot Jr. 0.3.0</title>
+      <pubDate>Tue, 03 Nov 2026 13:22:13 -0500</pubDate>
+      <sparkle:version>202611031317</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Updates itself from now on: TimeBot Jr. &gt; Check for Updates, or it checks once a day. Team goes to five exact usernames. Never saves time in the future or more than 90 days back.</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.0-202611031317/TimeBot-Jr-0.3.0.zip" type="application/octet-stream" sparkle:edSignature="9/q/Bwe4y6g4aDQ88tRFZsR1bqBIKJdVyIxpMZBgw6gWJxWL269Eeg+gE3MuBuB/hsQcqxyk89uJ2FHyDorJCg==" length="4839391" />
+    </item>
   </channel>
 </rss>
