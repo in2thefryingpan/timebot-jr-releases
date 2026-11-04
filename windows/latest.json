@@ -1,11 +1,11 @@
 {
-  "version": "0.3.5",
-  "notes": "New: if you're away from the computer for 15 minutes (or it sleeps) while a timer runs, the app asks when you're back: keep the time, drop the away time, or pause the timer at when you left. Change or turn it off in Settings > Timer.",
-  "pub_date": "2026-11-03T23:03:50Z",
+  "version": "0.3.6",
+  "notes": "Review fixes across the app (typing 1.5 in Hours works, saves can't double post on a slow VPN, offline saves keep retrying, sign out clears everything, search matches any word). New: End of day reminder and an Auto theme that follows Windows light or dark mode, both in Settings.",
+  "pub_date": "2026-11-04T00:59:23Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGE0MmZINnJza1FZSktiNmFiQnBUQnk3ZWl3b1NIc2NUaXNndTBjejFJYkhDVWZCN2QyMnMvZ25uUHgvNG9UcjFFUlFqRjV5OXkrUnU1Mk5yeXJjbFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzQ3MDI0CWZpbGU6VGltZUJvdC1Kci0wLjMuNS1XaW5kb3dzLXNldHVwLmV4ZQorNWt4eTMxMGtYTFVVR1U0eG5WVk9LZEg3aHp5bTVDK2RHWkw5VWZrdDRrdUJqRmpiREp4STdXcHI3aGFTM2NXOHRJWVQyVTZXaHprWjdIV3hxSWxEQT09Cg==",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.5/TimeBot-Jr-0.3.5-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFoyNEcwNlczSUNFaW9GNkJ6VkhMbUpqZnlKYm5hZm9GQ1FQcFBMTVFOeWpORVpoY2pMZGJyYTJaSW9lNnNXa2VkL2VrNGczenhIUHVPVjBER1o2MVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzUzOTU1CWZpbGU6VGltZUJvdC1Kci0wLjMuNi1XaW5kb3dzLXNldHVwLmV4ZQpqMjhoejVrWGw3OVNpWXFiZlM2ZitWTy8zVTFJSTdJTzNTQndaWlRmcUxVZlg2bGEyZnBxNmlmTnIvaldJcWhQNmJDWkY5K1h2bWZPSXJrRUlzOThDZz09Cg==",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.6/TimeBot-Jr-0.3.6-Windows-setup.exe"
     }
   }
 }
