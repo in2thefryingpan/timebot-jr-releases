@@ -1,11 +1,11 @@
 {
-  "version": "0.3.9",
-  "notes": "New for managers: To review in the sidebar. Every unreviewed time entry for your clients, oldest first; fix billing or work type and mark it reviewed in one click. Everyone: an orange flag on My time when Onsite work has no site visit fee, or a site visit fee sits on work that isn't Onsite.",
-  "pub_date": "2026-11-04T18:10:20Z",
+  "version": "0.3.10",
+  "notes": "The window now opens at a size that fits your screen, so it isn't tiny on a big 4K monitor. Text size in Settings goes up to 180%, and Ctrl + / Ctrl - / Ctrl 0 change it from anywhere.",
+  "pub_date": "2026-11-04T18:16:28Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGNpanpHY3FmNzF1T1hTOEwrQlpsVmJWUUZaMDloOFZPc1pvVlZrQTBnMzdLY1l4ODEvMjlvM3QzMGlxZXRzTWJERjBqMUtxUS8wR3pJR2xleVRzNHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE1ODEzCWZpbGU6VGltZUJvdC1Kci0wLjMuOS1XaW5kb3dzLXNldHVwLmV4ZQpUdlpGVGlBRGlyNkkvb21qV0pDZ0hCUGdkaVdLUjdnS1NmUlVpdzNZZkFERmVrb1BjL0U2SllmTURlcWJCODZGVEhiT0oyZ0RZVHBkZmtpcC81dFRCUT09Cg==",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.9/TimeBot-Jr-0.3.9-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGV2L3Q3TUVyUUlqREFlMjgvOU9zdlVMT3Ftck43dmhISjZuSFZlcm1MN0xWdlpHMDhCOTJvSW1qeUhqZk81NWQrbTA3Uld1VU11OEk5NGtUWEIyNUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE2MTgxCWZpbGU6VGltZUJvdC1Kci0wLjMuMTAtV2luZG93cy1zZXR1cC5leGUKY3dnQ0dsdWpaZU5TWW9rYmF6RmFvVjdTTDZjcHBvMTZxa1VPdFhKU0Z1ZlVWdEZ6WkpCNEg5QkMzTTBJRENoWWRWYnVYTjlHa3RjYzY0TjBPUkxVRGc9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.10/TimeBot-Jr-0.3.10-Windows-setup.exe"
     }
   }
 }
