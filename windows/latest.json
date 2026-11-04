@@ -1,11 +1,11 @@
 {
-  "version": "0.3.22",
-  "notes": "\u2022 Quotes and orders: orders grouped by whose move it is (us, the client, the vendor)\n\u2022 Orange flags on orders stuck too long: overdue invoices, POs not received, sales orders with no invoice\n\u2022 See what's in each order, and track shipments with one click\n\u2022 POs with no order listed on their own, so you can find out whose they are\n\u2022 Change a sales order's status, mark PO items received, and write the client into a PO's notes\n\u2022 The Quotes button shows how many orders are waiting on us, and each client's page lists their orders\n\u2022 Change a Quote board ticket's stage right from its bar",
-  "pub_date": "2026-11-04T22:35:58Z",
+  "version": "0.3.23",
+  "notes": "\u2022 To review: notes are spellchecked, and likely typos show under the entry so they can be fixed before the client sees them\n\u2022 Names, acronyms, web addresses and everyday IT words are not flagged",
+  "pub_date": "2026-11-04T22:49:50Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFRCWWRaWGRJUEFQRHNBT29zZjZYdTArNnhlb2M3cDV3R2dSQU5GY3dGakxUT0RXQ0o0WmF2bWQzeFhzWlBnNXN4REZ6TTZiTE9RNkxrS0RGbXc4TndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODMxNzUzCWZpbGU6VGltZUJvdC1Kci0wLjMuMjItV2luZG93cy1zZXR1cC5leGUKcnZWaWduUG5lQnE5U3BPejZpem81ZDk4Qmh6K01BSTlEUXNadExiQWlkY1BGK0U5ZXpyUGpjQTJEZ3hXZmtqU3FJMmdrMERlMlNpMk5yMHQzc2VnQWc9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.22/TimeBot-Jr-0.3.22-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGRaRW1ISHIyTjIvL0Iya0VhSHVkUmxUdUlEOHBEZ0lwQ2IzTzBoL1VDdjlPQzQwdHQ3MHJtd1E1UTZ3TkZFMHVBMnpNT0lneUx5cVUvalNWMGF1dUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODMyNTg1CWZpbGU6VGltZUJvdC1Kci0wLjMuMjMtV2luZG93cy1zZXR1cC5leGUKQTdDZzhXeFNlc3phS2h3YWFNKy96aWZZQllRQnMxSUZzWlFyak9NcEp1cnYrTDFvYnZiSmk1T2gzQTJ4Q3ZJc0JXMTczVS95UUdyY2ZFeFpud0Y4QWc9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.23/TimeBot-Jr-0.3.23-Windows-setup.exe"
     }
   }
 }
