@@ -1,11 +1,11 @@
 {
-  "version": "0.3.16",
-  "notes": "To review: managers can now fix an entry's hours and note too, not just billing and work type (while it's Open or waiting for approval). New flags for double-booked time and billing that doesn't fit the work. Mark reviewed is now Cmd-Return on the Mac and Ctrl+Enter on Windows.",
-  "pub_date": "2026-11-04T19:44:27Z",
+  "version": "0.3.17",
+  "notes": "The sidebar is now grouped: Your work, then Managers (managers only), then Settings.",
+  "pub_date": "2026-11-04T20:19:54Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFdibVBLYytMVkIwaGhmNGswRUFKRmE4YzgvMlhWWjFrN3gvd0ZkcGlnbmNVSzRCZVdFL3d2cnNvYmtOMjFkV0g1d1UwWVJNRmFWQk9VK0E3b205SVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODIxNDU5CWZpbGU6VGltZUJvdC1Kci0wLjMuMTYtV2luZG93cy1zZXR1cC5leGUKcmlSUkpjUHorNjlKc0pUajhkRnFLTjMydytnQnhQbFZJK2swVzU5MVNQcmJSK2EvVzlPN2s0c3JkS3J2U25SaDdtYWJ6TUpjSXBlZENzbjJvM2Y3QXc9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.16/TimeBot-Jr-0.3.16-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFV0Vm9zRmhHbGEwVWdhN01sKzlha2R2dVJVV3B1ZU8wSW1DOHlwdUxUbE0ySnJQVlJaZHZUNEZVc3RlK1BuQURPVVJ0MndxYlRXeW9RaFAyMG41d3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODIzNTg3CWZpbGU6VGltZUJvdC1Kci0wLjMuMTctV2luZG93cy1zZXR1cC5leGUKcld3KzZ5NWpadmdDVnp4RmhPR1JETzBwWDhjdjZ2TTV4Q2RXdnpjdG5neDZoQk5UY3FVTVR5cFlWUWVEbTJMbmNLejc3a3ZkMWhkSTRyMnF4UE5nQWc9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.17/TimeBot-Jr-0.3.17-Windows-setup.exe"
     }
   }
 }
