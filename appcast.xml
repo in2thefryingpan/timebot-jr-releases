@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.10</title>
+      <pubDate>Wed, 04 Nov 2026 14:07:26 -0500</pubDate>
+      <sparkle:version>202611041405</sparkle:version>
+      <sparkle:shortVersionString>0.3.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>In My time, picking another day now closes the ticket that was open beside the calendar.</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.10-202611041405/TimeBot-Jr-0.3.10.zip" type="application/octet-stream" sparkle:edSignature="PMw6CtWwM3oFlDmtKpQeGDzrfHInpJuh3jfwj7EK5LnBYU8E+X+WZA6usZwVu5ujy8UxyhqYIDQWXvi8q9/cDg==" length="5443363" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.9</title>
       <pubDate>Wed, 04 Nov 2026 14:00:46 -0500</pubDate>
       <sparkle:version>202611041358</sparkle:version>
