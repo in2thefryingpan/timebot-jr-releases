@@ -1,11 +1,11 @@
 {
-  "version": "0.3.13",
-  "notes": "New: an Internal time button under New ticket, for admin, overhead and meetings. On a ticket, Time on this ticket now lists every booking with Edit (hours, note, work type, billing) until its timesheet is submitted. In To review, Save fix only saves a billing or work type change without marking the entry reviewed.",
-  "pub_date": "2026-11-04T18:46:24Z",
+  "version": "0.3.14",
+  "notes": "Right-click any day on the My time calendar (week or month) to show it, log time or internal time on it, book PTO from it, or mark it as a day you didn't work.",
+  "pub_date": "2026-11-04T19:04:20Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFJPQ1VEb1oxdFlCdm9OZ2hJZ0QzS05YZG5LVzRscGhGQmlHUlFTZThWS0EvZmszR2hSVGdiVGQ4dmdVc1ZhK3BXSTlMSmRXVVBtNnR3bGduSEFCTGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE3OTc2CWZpbGU6VGltZUJvdC1Kci0wLjMuMTMtV2luZG93cy1zZXR1cC5leGUKM1pOaCtiWHVEQ3NyQTBwaW5WL0dXZnUwUVVYWHVycHVkM0M5cXVuZUJLZFVkdXJJOE5MNlNXdXRyOGNPMnIvTUFUMVE1YkJKVHFDdTlwa0VBMS8zREE9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.13/TimeBot-Jr-0.3.13-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFRpZDh2SnVVVGhleTN6UlNWMDVTVUxWZ1AzMG1FbDZDL241ZCt4bm9hN0ZhTE1QQVRPV3RDcFhmRmlUbWlJSGltVlQrVkgrV1ZSVUtqOCs2MTlUOFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE5MDUzCWZpbGU6VGltZUJvdC1Kci0wLjMuMTQtV2luZG93cy1zZXR1cC5leGUKc0tyMk1uZHJRbDNhdEdhWVNCOGZFS0RNbVVXakt2Uy9DcDFoVkh6ZEU5UDhmM1QrUG41M2ZrV0svWlRQdEJnMDBXMmdVWnZzWEYwS1RWK0tycU1pRHc9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.14/TimeBot-Jr-0.3.14-Windows-setup.exe"
     }
   }
 }
