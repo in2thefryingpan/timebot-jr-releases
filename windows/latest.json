@@ -1,11 +1,11 @@
 {
-  "version": "0.3.6",
-  "notes": "Review fixes across the app (typing 1.5 in Hours works, saves can't double post on a slow VPN, offline saves keep retrying, sign out clears everything, search matches any word). New: End of day reminder and an Auto theme that follows Windows light or dark mode, both in Settings.",
-  "pub_date": "2026-11-04T00:59:23Z",
+  "version": "0.3.7",
+  "notes": "Polish: a refused offline save can be sent again (Try again) or dropped from the sidebar; your last note on a ticket is one click away.",
+  "pub_date": "2026-11-04T01:04:21Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFoyNEcwNlczSUNFaW9GNkJ6VkhMbUpqZnlKYm5hZm9GQ1FQcFBMTVFOeWpORVpoY2pMZGJyYTJaSW9lNnNXa2VkL2VrNGczenhIUHVPVjBER1o2MVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzUzOTU1CWZpbGU6VGltZUJvdC1Kci0wLjMuNi1XaW5kb3dzLXNldHVwLmV4ZQpqMjhoejVrWGw3OVNpWXFiZlM2ZitWTy8zVTFJSTdJTzNTQndaWlRmcUxVZlg2bGEyZnBxNmlmTnIvaldJcWhQNmJDWkY5K1h2bWZPSXJrRUlzOThDZz09Cg==",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.6/TimeBot-Jr-0.3.6-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGF1aHBGTmVsWGNBellwU0tKbEI3UGlVQ1hFcTBoQnlucjNhbFc5TGVmdS9LNy9DVVU5WjVFb1ZXeExBVHFmNjJKbzBTbUN3WnQ1SjRmYzBWblFraHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzU0MjUyCWZpbGU6VGltZUJvdC1Kci0wLjMuNy1XaW5kb3dzLXNldHVwLmV4ZQpFT0RidmJwdjdKUW1KWTBqWG03dGFiQnRtNlhpeFFLc2Q4OTJjWTJpbmNMdWY1TlkyKzVOMVNDeUIzQ1Z6RVY1eVlNTGsvUTNMTzlSYU4xSXIwdUpBZz09Cg==",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.7/TimeBot-Jr-0.3.7-Windows-setup.exe"
     }
   }
 }
