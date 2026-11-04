@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.5</title>
+      <pubDate>Wed, 04 Nov 2026 11:49:44 -0500</pubDate>
+      <sparkle:version>202611041148</sparkle:version>
+      <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fix: if a save&#x27;s answer gets lost on a slow connection, the retry now finds the entry that already landed instead of booking it twice.</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.5-202611041148/TimeBot-Jr-0.3.5.zip" type="application/octet-stream" sparkle:edSignature="BzCxWDINorlNJ/PCz7DmrDgRsiZRh+0I9b2Pfj45bG9fqszdivUzbRG6xTdSj8tKytcu40/03OVvaFxXsMK8BQ==" length="5202832" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.4</title>
       <pubDate>Tue, 03 Nov 2026 20:01:54 -0500</pubDate>
       <sparkle:version>202611031959</sparkle:version>
