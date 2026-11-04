@@ -1,11 +1,11 @@
 {
-  "version": "0.3.23",
-  "notes": "\u2022 To review: notes are spellchecked, and likely typos show under the entry so they can be fixed before the client sees them\n\u2022 Names, acronyms, web addresses and everyday IT words are not flagged",
-  "pub_date": "2026-11-04T22:49:50Z",
+  "version": "0.3.24",
+  "notes": "\u2022 Clearer messages when ConnectWise refuses a change: they now name your own ConnectWise role and the setting to change\n\u2022 Editing a saved time entry explains a refusal instead of showing a raw error",
+  "pub_date": "2026-11-04T23:09:20Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGRaRW1ISHIyTjIvL0Iya0VhSHVkUmxUdUlEOHBEZ0lwQ2IzTzBoL1VDdjlPQzQwdHQ3MHJtd1E1UTZ3TkZFMHVBMnpNT0lneUx5cVUvalNWMGF1dUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODMyNTg1CWZpbGU6VGltZUJvdC1Kci0wLjMuMjMtV2luZG93cy1zZXR1cC5leGUKQTdDZzhXeFNlc3phS2h3YWFNKy96aWZZQllRQnMxSUZzWlFyak9NcEp1cnYrTDFvYnZiSmk1T2gzQTJ4Q3ZJc0JXMTczVS95UUdyY2ZFeFpud0Y4QWc9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.23/TimeBot-Jr-0.3.23-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFFnT1doMWZrRkFSTlBQMU9DNmRueHlQKzBCYkgxTXV4SDMyazJnRUNxU1VSTDdBZHhvOWZwbkVOOXFaT2pTWjJmenkydjlGZTc0OERBanViR2hzdmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODMzNzU1CWZpbGU6VGltZUJvdC1Kci0wLjMuMjQtV2luZG93cy1zZXR1cC5leGUKSnpxR2FEQ2hBT0hxTFpYR1F3MnJMUU1GVkphTU1nUUxqaXdpcDlmTExRSWxxQzRScGhGRndaRE41QnFvZno1YWk1dzhHOFF1SDBHUVg3ZkNNb01ZQUE9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.24/TimeBot-Jr-0.3.24-Windows-setup.exe"
     }
   }
 }
