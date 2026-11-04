@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.17</title>
+      <pubDate>Wed, 04 Nov 2026 16:46:41 -0500</pubDate>
+      <sparkle:version>202611041644</sparkle:version>
+      <sparkle:shortVersionString>0.3.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Quotes and orders: orders grouped by whose move it is (us, the client, the vendor)</li><li>Orange flags on orders stuck too long: overdue invoices, POs not received, sales orders with no invoice</li><li>See what&#x27;s in each order, and track shipments with one click</li><li>POs with no order listed on their own, so you can find out whose they are</li><li>Change a sales order&#x27;s status, mark PO items received, and write the client into a PO&#x27;s notes</li><li>The Quotes button shows how many orders are waiting on us, and each client&#x27;s page lists their orders</li><li>Change a Quote board ticket&#x27;s stage right from its bar</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.17-202611041644/TimeBot-Jr-0.3.17.zip" type="application/octet-stream" sparkle:edSignature="qpL7bjsWRa8fgEcOlKlQ724APJj4K2aE7IXda/HmyNBcX5ETMvwNfFkEGVcAoQd1JlzJHQONmTpbcm6Dldz3Bg==" length="5896783" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.16</title>
       <pubDate>Wed, 04 Nov 2026 16:29:25 -0500</pubDate>
       <sparkle:version>202611041627</sparkle:version>
