@@ -1,11 +1,11 @@
 {
-  "version": "0.3.10",
-  "notes": "The window now opens at a size that fits your screen, so it isn't tiny on a big 4K monitor. Text size in Settings goes up to 180%, and Ctrl + / Ctrl - / Ctrl 0 change it from anywhere.",
-  "pub_date": "2026-11-04T18:16:28Z",
+  "version": "0.3.12",
+  "notes": "Fixes New ticket: picking a client now sticks (before, the click picked it and un-picked it straight away). To review now shows only ticket time (internal Admin and PTO are left out), grouped by consultant and week. Mark all reviewed does a consultant's whole week at once, and the To review button shows how many of your clients' entries are waiting.",
+  "pub_date": "2026-11-04T18:30:13Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGV2L3Q3TUVyUUlqREFlMjgvOU9zdlVMT3Ftck43dmhISjZuSFZlcm1MN0xWdlpHMDhCOTJvSW1qeUhqZk81NWQrbTA3Uld1VU11OEk5NGtUWEIyNUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE2MTgxCWZpbGU6VGltZUJvdC1Kci0wLjMuMTAtV2luZG93cy1zZXR1cC5leGUKY3dnQ0dsdWpaZU5TWW9rYmF6RmFvVjdTTDZjcHBvMTZxa1VPdFhKU0Z1ZlVWdEZ6WkpCNEg5QkMzTTBJRENoWWRWYnVYTjlHa3RjYzY0TjBPUkxVRGc9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.10/TimeBot-Jr-0.3.10-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFhjM3ovNXNZN0RxSUk2b0tQbDdjWkdGbjZ5UFM5VmtHOTd4aDE3ekdZaHczTHlsZStBM0RVVXQrZVU1bVQvVjBHZFlRNFFyNjNlcmZGOUpqZTR6dXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE3MDA2CWZpbGU6VGltZUJvdC1Kci0wLjMuMTItV2luZG93cy1zZXR1cC5leGUKanppaFJUaUNXUzhwS0VXc3V5VHhSNEpOSnhCd2I1MndMcjlWQzFmUkJzT0UvM3lYa2hibGJYU01PQkN0NEFRbXU2WXl5WGI1RU15UVhERWVUZ3E4RHc9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.12/TimeBot-Jr-0.3.12-Windows-setup.exe"
     }
   }
 }
