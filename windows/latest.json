@@ -1,11 +1,11 @@
 {
-  "version": "0.3.18",
-  "notes": "New for managers and Marina, under Support in the sidebar: Support desk (unassigned Service Desk tickets, the whole board with filters, and the Monitoring board) and Quotes (the Quote board by stage, with quiet quotes flagged).",
-  "pub_date": "2026-11-04T20:54:37Z",
+  "version": "0.3.19",
+  "notes": "Quotes is now Quotes and orders: one bar per order with the client's name, the CPQ quote number and where it's at (step 5 of 12 and so on). Sort by client or furthest along, and search by client, quote number or ticket.",
+  "pub_date": "2026-11-04T21:11:17Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFhpcytlSlNXSkFSYTJUVkJwQ2lhSERrSkthYUVVN0hFQTNZOXN4emk2akVOYzZWYk9VdzJLWTJESFZKNERBSE8valI4eHBTQU9jZjBUVzBvWkJROGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI1NjczCWZpbGU6VGltZUJvdC1Kci0wLjMuMTgtV2luZG93cy1zZXR1cC5leGUKSjZXeDB6MGtRVFg1Vi85a2NEdnZwT29uV2RFMVpLWWcwaEluU1FnUFhRTDlheUp0R1hqRTdYMWltZHprcGxBSFFXL0UrRFprYlNCN0ZZZ3BsenI0QVE9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.18/TimeBot-Jr-0.3.18-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFo0THhoTTdDaStYMVk2Y1ZMRjFEWGlFVGxiVVprdFhmL21JellHb3RjMDluUzE4c29PVXUwZkF0TWYyNVprbEtSOEo0WDIxeW11d3RReDRrdms4eHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI2NjczCWZpbGU6VGltZUJvdC1Kci0wLjMuMTktV2luZG93cy1zZXR1cC5leGUKa1g4YlRwdlhzY3lMUXRsVW5RS1FWd2ZEVTNpLzRIY05vazJQL0tid3FWbi9WaEE4aUNIa3JoVE1tOUluZVlVOXlOQVRrdGxBREtEYWY1NUUwYk5QRGc9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.19/TimeBot-Jr-0.3.19-Windows-setup.exe"
     }
   }
 }
