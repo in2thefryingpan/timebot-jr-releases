@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.14</title>
+      <pubDate>Wed, 04 Nov 2026 16:06:36 -0500</pubDate>
+      <sparkle:version>202611041604</sparkle:version>
+      <sparkle:shortVersionString>0.3.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Quotes is now Quotes and orders: one bar per order with the client&#x27;s name, the CPQ quote number and where it&#x27;s at (step 5 of 12 and so on). Sort by client or furthest along, and search by client, quote number or ticket.</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.14-202611041604/TimeBot-Jr-0.3.14.zip" type="application/octet-stream" sparkle:edSignature="siwDnxZA5tX4l6NdyZJ5fSbge7gyzz+z10Cy6HMIlF+id8AX7Q/qOXZIAfH0sU3aktabVqGCGTQv8GlMkwqFAQ==" length="5621631" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.13</title>
       <pubDate>Wed, 04 Nov 2026 15:55:14 -0500</pubDate>
       <sparkle:version>202611041538</sparkle:version>
