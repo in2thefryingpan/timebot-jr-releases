@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.19</title>
+      <pubDate>Wed, 04 Nov 2026 18:04:54 -0500</pubDate>
+      <sparkle:version>202611041802</sparkle:version>
+      <sparkle:shortVersionString>0.3.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Clearer messages when ConnectWise refuses a change: they now name your own ConnectWise role and the setting to change</li><li>Editing a saved time entry explains a refusal instead of showing a raw error</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.19-202611041802/TimeBot-Jr-0.3.19.zip" type="application/octet-stream" sparkle:edSignature="DXHrOQRXMJSZsaiH7GTLnL1K+eLEphPp5eu7sM2E+3IK9tLNlH+zgfGXnwrJuXbgGjpNjWIu/wtEhyU60hDlAg==" length="5911187" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.18</title>
       <pubDate>Wed, 04 Nov 2026 17:45:24 -0500</pubDate>
       <sparkle:version>202611041743</sparkle:version>
