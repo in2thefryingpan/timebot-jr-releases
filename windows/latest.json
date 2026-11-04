@@ -1,11 +1,11 @@
 {
-  "version": "0.3.7",
-  "notes": "Polish: a refused offline save can be sent again (Try again) or dropped from the sidebar; your last note on a ticket is one click away.",
-  "pub_date": "2026-11-04T01:04:21Z",
+  "version": "0.3.8",
+  "notes": "Fix: if a save's answer gets lost on a slow connection, the retry now finds the entry that already landed instead of booking it twice.",
+  "pub_date": "2026-11-04T16:53:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGF1aHBGTmVsWGNBellwU0tKbEI3UGlVQ1hFcTBoQnlucjNhbFc5TGVmdS9LNy9DVVU5WjVFb1ZXeExBVHFmNjJKbzBTbUN3WnQ1SjRmYzBWblFraHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzU0MjUyCWZpbGU6VGltZUJvdC1Kci0wLjMuNy1XaW5kb3dzLXNldHVwLmV4ZQpFT0RidmJwdjdKUW1KWTBqWG03dGFiQnRtNlhpeFFLc2Q4OTJjWTJpbmNMdWY1TlkyKzVOMVNDeUIzQ1Z6RVY1eVlNTGsvUTNMTzlSYU4xSXIwdUpBZz09Cg==",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.7/TimeBot-Jr-0.3.7-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFhrQnYycGNGaGROb1ROTlZYdlU1NkQ4Ti93MW5kSlFGRzBFMFZmMFphdzZLNEp3TFUrUkROd2NDWnpiTzNna3NKTjY3VzFRclZJNDh2L3FhZXlRU2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODExMTczCWZpbGU6VGltZUJvdC1Kci0wLjMuOC1XaW5kb3dzLXNldHVwLmV4ZQovRDBoSlpPNVNDOWdoRWxJYjJ4bHRNdWRjdEl3UG00RGVYeDdFQWZMdWxSbGNEMmprT0o2TFVFUTB4OTdNVU5GWkZtYlkyTmd2MmhJRC85UzV1UGVDdz09Cg==",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.8/TimeBot-Jr-0.3.8-Windows-setup.exe"
     }
   }
 }
