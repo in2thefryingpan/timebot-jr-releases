@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.9</title>
+      <pubDate>Wed, 04 Nov 2026 14:00:46 -0500</pubDate>
+      <sparkle:version>202611041358</sparkle:version>
+      <sparkle:shortVersionString>0.3.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Right-click any day on the My time calendar (week or month) to show it, log time or internal time on it, book PTO from it, or mark it as a day you didn&#x27;t work.</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.9-202611041358/TimeBot-Jr-0.3.9.zip" type="application/octet-stream" sparkle:edSignature="0gCYUCC25DgnBUIiO8INKW0uGRdQWRnmFREe/nyRyYU4WIG/jRwV64zYHk8UP85l3/8/ZUE7Tj44dpodabvfAg==" length="5443321" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.8</title>
       <pubDate>Wed, 04 Nov 2026 13:37:09 -0500</pubDate>
       <sparkle:version>202611041335</sparkle:version>
