@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.3</title>
+      <pubDate>Tue, 03 Nov 2026 19:51:24 -0500</pubDate>
+      <sparkle:version>202611031949</sparkle:version>
+      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Review fixes across the app (saves can&#x27;t double post on a slow VPN, offline saves keep retrying, sign out clears everything, search matches any word, My time fixes). New: End of day reminder in Settings, and an Auto theme that follows the Mac&#x27;s light or dark mode.</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.3-202611031949/TimeBot-Jr-0.3.3.zip" type="application/octet-stream" sparkle:edSignature="AhXS2ePOBthfP5tIcXLfziefo4zK8+TWLeTjuCFowi9lXDx+Ri3739jUr7Mrk7hfmEkcRM/j+dvZf0VSRsYjDg==" length="5179580" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.2</title>
       <pubDate>Tue, 03 Nov 2026 18:00:44 -0500</pubDate>
       <sparkle:version>202611031758</sparkle:version>
