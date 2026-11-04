@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.15</title>
+      <pubDate>Wed, 04 Nov 2026 16:21:04 -0500</pubDate>
+      <sparkle:version>202611041619</sparkle:version>
+      <sparkle:shortVersionString>0.3.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Quotes now opens on Orders: every CPQ order with the client&#x27;s name, where it&#x27;s at (waiting on client payment, waiting on the vendor and so on), and its quote, sales order, invoice and POs one click away. The double-booked flag in To review is gone.</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.15-202611041619/TimeBot-Jr-0.3.15.zip" type="application/octet-stream" sparkle:edSignature="AHyeY3vfy/dYz7eq8F3+IzprUEIOiRTlIbWq9QURitGFCdJjFrIp/Ht1Ws982NINR9eWBLM58YxK598AfpFuBA==" length="5730680" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.14</title>
       <pubDate>Wed, 04 Nov 2026 16:06:36 -0500</pubDate>
       <sparkle:version>202611041604</sparkle:version>
