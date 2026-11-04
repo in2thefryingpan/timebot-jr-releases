@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.8</title>
+      <pubDate>Wed, 04 Nov 2026 13:37:09 -0500</pubDate>
+      <sparkle:version>202611041335</sparkle:version>
+      <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New: an Internal time button under New ticket, for admin, overhead and meetings. On a ticket, Time on this ticket now lists every booking with Edit (hours, note, work type, billing) until its timesheet is submitted. In To review, Save fix only saves a billing or work type change without marking the entry reviewed.</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.8-202611041335/TimeBot-Jr-0.3.8.zip" type="application/octet-stream" sparkle:edSignature="hxLJQvlbg/2tP56t23RUaHVYT4lyN5/ODcIZDX1RDzfmouPXezcLXkF2bMKvwrF66t7AYt3boe/2Fmel3YmODg==" length="5423429" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.7</title>
       <pubDate>Wed, 04 Nov 2026 13:22:15 -0500</pubDate>
       <sparkle:version>202611041320</sparkle:version>
