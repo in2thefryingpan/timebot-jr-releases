@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.7</title>
+      <pubDate>Wed, 04 Nov 2026 13:22:15 -0500</pubDate>
+      <sparkle:version>202611041320</sparkle:version>
+      <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>To review now shows only ticket time (internal Admin and PTO are left out), grouped by consultant and week. Mark all reviewed does a consultant&#x27;s whole week at once, and the To review button shows how many of your clients&#x27; entries are waiting.</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.7-202611041320/TimeBot-Jr-0.3.7.zip" type="application/octet-stream" sparkle:edSignature="CLyVHTSzT57qgPMgCUf5tXIQALCPNLgFj83msfUzM6LL5fJ2RgkWD80cYCPBEXFWsKsyzm0Z6fCZMr1yAse7AQ==" length="5396788" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.6</title>
       <pubDate>Wed, 04 Nov 2026 13:05:26 -0500</pubDate>
       <sparkle:version>202611041303</sparkle:version>
