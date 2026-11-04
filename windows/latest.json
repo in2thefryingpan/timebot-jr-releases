@@ -1,11 +1,11 @@
 {
-  "version": "0.3.14",
-  "notes": "Right-click any day on the My time calendar (week or month) to show it, log time or internal time on it, book PTO from it, or mark it as a day you didn't work.",
-  "pub_date": "2026-11-04T19:04:20Z",
+  "version": "0.3.15",
+  "notes": "In My time, picking another day now closes the ticket that was open beside the calendar.",
+  "pub_date": "2026-11-04T19:11:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFRpZDh2SnVVVGhleTN6UlNWMDVTVUxWZ1AzMG1FbDZDL241ZCt4bm9hN0ZhTE1QQVRPV3RDcFhmRmlUbWlJSGltVlQrVkgrV1ZSVUtqOCs2MTlUOFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE5MDUzCWZpbGU6VGltZUJvdC1Kci0wLjMuMTQtV2luZG93cy1zZXR1cC5leGUKc0tyMk1uZHJRbDNhdEdhWVNCOGZFS0RNbVVXakt2Uy9DcDFoVkh6ZEU5UDhmM1QrUG41M2ZrV0svWlRQdEJnMDBXMmdVWnZzWEYwS1RWK0tycU1pRHc9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.14/TimeBot-Jr-0.3.14-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGZwUnFGK1JHMitBdjJEbmV6M2tjTWt3dExGclhCTnJieis5NEpwVWQ5ck42YlZFZmNpYXFyMmlRdWN1U1F0OXJnMHkySWsvTmNOWkxRTXNLUEQ5aXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE5NDUzCWZpbGU6VGltZUJvdC1Kci0wLjMuMTUtV2luZG93cy1zZXR1cC5leGUKMTRZakhTV3E3S0ZYaXNBYzloOHhMdkhQRjYxeHFJREFNMFdyVCsvd0NmTWNFdkpWMXV4cEhpbjlWVVFNZ0lnTndBckxVeXIrYTJ3U1lxZjk2RmtVQ3c9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.15/TimeBot-Jr-0.3.15-Windows-setup.exe"
     }
   }
 }
