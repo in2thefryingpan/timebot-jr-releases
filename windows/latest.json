@@ -1,11 +1,11 @@
 {
-  "version": "0.3.8",
-  "notes": "Fix: if a save's answer gets lost on a slow connection, the retry now finds the entry that already landed instead of booking it twice.",
-  "pub_date": "2026-11-04T16:53:00Z",
+  "version": "0.3.9",
+  "notes": "New for managers: To review in the sidebar. Every unreviewed time entry for your clients, oldest first; fix billing or work type and mark it reviewed in one click. Everyone: an orange flag on My time when Onsite work has no site visit fee, or a site visit fee sits on work that isn't Onsite.",
+  "pub_date": "2026-11-04T18:10:20Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFhrQnYycGNGaGROb1ROTlZYdlU1NkQ4Ti93MW5kSlFGRzBFMFZmMFphdzZLNEp3TFUrUkROd2NDWnpiTzNna3NKTjY3VzFRclZJNDh2L3FhZXlRU2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODExMTczCWZpbGU6VGltZUJvdC1Kci0wLjMuOC1XaW5kb3dzLXNldHVwLmV4ZQovRDBoSlpPNVNDOWdoRWxJYjJ4bHRNdWRjdEl3UG00RGVYeDdFQWZMdWxSbGNEMmprT0o2TFVFUTB4OTdNVU5GWkZtYlkyTmd2MmhJRC85UzV1UGVDdz09Cg==",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.8/TimeBot-Jr-0.3.8-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGNpanpHY3FmNzF1T1hTOEwrQlpsVmJWUUZaMDloOFZPc1pvVlZrQTBnMzdLY1l4ODEvMjlvM3QzMGlxZXRzTWJERjBqMUtxUS8wR3pJR2xleVRzNHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE1ODEzCWZpbGU6VGltZUJvdC1Kci0wLjMuOS1XaW5kb3dzLXNldHVwLmV4ZQpUdlpGVGlBRGlyNkkvb21qV0pDZ0hCUGdkaVdLUjdnS1NmUlVpdzNZZkFERmVrb1BjL0U2SllmTURlcWJCODZGVEhiT0oyZ0RZVHBkZmtpcC81dFRCUT09Cg==",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.9/TimeBot-Jr-0.3.9-Windows-setup.exe"
     }
   }
 }
