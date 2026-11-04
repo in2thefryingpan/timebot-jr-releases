@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.11</title>
+      <pubDate>Wed, 04 Nov 2026 14:40:35 -0500</pubDate>
+      <sparkle:version>202611041438</sparkle:version>
+      <sparkle:shortVersionString>0.3.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>To review: managers can now fix an entry&#x27;s hours and note too, not just billing and work type (while it&#x27;s Open or waiting for approval). New flags for double-booked time and billing that doesn&#x27;t fit the work. Mark reviewed is now Cmd-Return on the Mac and Ctrl+Enter on Windows.</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.11-202611041438/TimeBot-Jr-0.3.11.zip" type="application/octet-stream" sparkle:edSignature="R7mEplaBT3DbjEQIs5PiIshzxQf/PRbWOMNgasbyQWV1t9xtGEEHNv1CdxoXSzA67nf5uXM0kGuV0ol1kwXUDg==" length="5489852" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.10</title>
       <pubDate>Wed, 04 Nov 2026 14:07:26 -0500</pubDate>
       <sparkle:version>202611041405</sparkle:version>
