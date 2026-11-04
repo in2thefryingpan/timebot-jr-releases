@@ -1,11 +1,11 @@
 {
-  "version": "0.3.12",
-  "notes": "Fixes New ticket: picking a client now sticks (before, the click picked it and un-picked it straight away). To review now shows only ticket time (internal Admin and PTO are left out), grouped by consultant and week. Mark all reviewed does a consultant's whole week at once, and the To review button shows how many of your clients' entries are waiting.",
-  "pub_date": "2026-11-04T18:30:13Z",
+  "version": "0.3.13",
+  "notes": "New: an Internal time button under New ticket, for admin, overhead and meetings. On a ticket, Time on this ticket now lists every booking with Edit (hours, note, work type, billing) until its timesheet is submitted. In To review, Save fix only saves a billing or work type change without marking the entry reviewed.",
+  "pub_date": "2026-11-04T18:46:24Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFhjM3ovNXNZN0RxSUk2b0tQbDdjWkdGbjZ5UFM5VmtHOTd4aDE3ekdZaHczTHlsZStBM0RVVXQrZVU1bVQvVjBHZFlRNFFyNjNlcmZGOUpqZTR6dXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE3MDA2CWZpbGU6VGltZUJvdC1Kci0wLjMuMTItV2luZG93cy1zZXR1cC5leGUKanppaFJUaUNXUzhwS0VXc3V5VHhSNEpOSnhCd2I1MndMcjlWQzFmUkJzT0UvM3lYa2hibGJYU01PQkN0NEFRbXU2WXl5WGI1RU15UVhERWVUZ3E4RHc9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.12/TimeBot-Jr-0.3.12-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFJPQ1VEb1oxdFlCdm9OZ2hJZ0QzS05YZG5LVzRscGhGQmlHUlFTZThWS0EvZmszR2hSVGdiVGQ4dmdVc1ZhK3BXSTlMSmRXVVBtNnR3bGduSEFCTGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE3OTc2CWZpbGU6VGltZUJvdC1Kci0wLjMuMTMtV2luZG93cy1zZXR1cC5leGUKM1pOaCtiWHVEQ3NyQTBwaW5WL0dXZnUwUVVYWHVycHVkM0M5cXVuZUJLZFVkdXJJOE5MNlNXdXRyOGNPMnIvTUFUMVE1YkJKVHFDdTlwa0VBMS8zREE9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.13/TimeBot-Jr-0.3.13-Windows-setup.exe"
     }
   }
 }
