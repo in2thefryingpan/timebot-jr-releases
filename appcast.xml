@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.20</title>
+      <pubDate>Wed, 04 Nov 2026 18:22:25 -0500</pubDate>
+      <sparkle:version>202611041820</sparkle:version>
+      <sparkle:shortVersionString>0.3.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Demo mode for managers (Settings &gt; Demo): hides the Managers group and saves nothing to ConnectWise, for showing the app to the team</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.20-202611041820/TimeBot-Jr-0.3.20.zip" type="application/octet-stream" sparkle:edSignature="3lSYYXQwFcStDnTPn3q7n8ABpRPE4mcIEeDkUlAO0tfV0gYEAK/9xra9uEIS6N1WkNowuBePyit2lqq0l/IYDQ==" length="5920330" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.19</title>
       <pubDate>Wed, 04 Nov 2026 18:04:54 -0500</pubDate>
       <sparkle:version>202611041802</sparkle:version>
