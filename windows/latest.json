@@ -1,11 +1,11 @@
 {
-  "version": "0.3.15",
-  "notes": "In My time, picking another day now closes the ticket that was open beside the calendar.",
-  "pub_date": "2026-11-04T19:11:00Z",
+  "version": "0.3.16",
+  "notes": "To review: managers can now fix an entry's hours and note too, not just billing and work type (while it's Open or waiting for approval). New flags for double-booked time and billing that doesn't fit the work. Mark reviewed is now Cmd-Return on the Mac and Ctrl+Enter on Windows.",
+  "pub_date": "2026-11-04T19:44:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGZwUnFGK1JHMitBdjJEbmV6M2tjTWt3dExGclhCTnJieis5NEpwVWQ5ck42YlZFZmNpYXFyMmlRdWN1U1F0OXJnMHkySWsvTmNOWkxRTXNLUEQ5aXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE5NDUzCWZpbGU6VGltZUJvdC1Kci0wLjMuMTUtV2luZG93cy1zZXR1cC5leGUKMTRZakhTV3E3S0ZYaXNBYzloOHhMdkhQRjYxeHFJREFNMFdyVCsvd0NmTWNFdkpWMXV4cEhpbjlWVVFNZ0lnTndBckxVeXIrYTJ3U1lxZjk2RmtVQ3c9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.15/TimeBot-Jr-0.3.15-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFdibVBLYytMVkIwaGhmNGswRUFKRmE4YzgvMlhWWjFrN3gvd0ZkcGlnbmNVSzRCZVdFL3d2cnNvYmtOMjFkV0g1d1UwWVJNRmFWQk9VK0E3b205SVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODIxNDU5CWZpbGU6VGltZUJvdC1Kci0wLjMuMTYtV2luZG93cy1zZXR1cC5leGUKcmlSUkpjUHorNjlKc0pUajhkRnFLTjMydytnQnhQbFZJK2swVzU5MVNQcmJSK2EvVzlPN2s0c3JkS3J2U25SaDdtYWJ6TUpjSXBlZENzbjJvM2Y3QXc9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.16/TimeBot-Jr-0.3.16-Windows-setup.exe"
     }
   }
 }
