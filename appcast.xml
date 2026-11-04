@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.6</title>
+      <pubDate>Wed, 04 Nov 2026 13:05:26 -0500</pubDate>
+      <sparkle:version>202611041303</sparkle:version>
+      <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New for managers: To review in the sidebar. Every unreviewed time entry for your clients, oldest first; fix billing or work type and mark it reviewed in one click. Everyone: an orange flag on My time when Onsite work has no site visit fee, or a site visit fee sits on work that isn&#x27;t Onsite.</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.6-202611041303/TimeBot-Jr-0.3.6.zip" type="application/octet-stream" sparkle:edSignature="LZFLp2OSEz4/bM0OP5lvkRXTTMiHkvm62ACQydPkv0f+E+QeURxjykH4k8jRdtbjkHJW5dnX24yYi+PAf3O0Dg==" length="5339551" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.5</title>
       <pubDate>Wed, 04 Nov 2026 11:49:44 -0500</pubDate>
       <sparkle:version>202611041148</sparkle:version>
