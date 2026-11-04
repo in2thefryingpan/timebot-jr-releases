@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.4</title>
+      <pubDate>Tue, 03 Nov 2026 20:01:54 -0500</pubDate>
+      <sparkle:version>202611031959</sparkle:version>
+      <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Polish: a refused offline save can be sent again (Try again) or dropped from the sidebar; your last note on a ticket is one click away; the new ticket summary counts to 100; the text size slider reaches everything.</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.4-202611031959/TimeBot-Jr-0.3.4.zip" type="application/octet-stream" sparkle:edSignature="vUzkrnROUxCXpqHhnpD+BedQHgw4SpUuhJvq+fRV9AoSlPs9pbDxb/Cl7ItaS8HSwYf/skxoabcRwVkt7hbnCg==" length="5202602" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.3</title>
       <pubDate>Tue, 03 Nov 2026 19:51:24 -0500</pubDate>
       <sparkle:version>202611031949</sparkle:version>
