@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.13</title>
+      <pubDate>Wed, 04 Nov 2026 15:55:14 -0500</pubDate>
+      <sparkle:version>202611041538</sparkle:version>
+      <sparkle:shortVersionString>0.3.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New for managers and Marina, under Support in the sidebar: Support desk (unassigned Service Desk tickets, the whole board with filters, and the Monitoring board) and Quotes (the Quote board by stage, with quiet quotes flagged).</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.13-202611041538/TimeBot-Jr-0.3.13.zip" type="application/octet-stream" sparkle:edSignature="YAfpdHVBC7fXR+RHeWhCIK0sF5+/PjaKTupI4wZvXjcdRwGq1W7LXykBlTeuzz26p9uln5+pp8vR9tGOyvZvBQ==" length="5612166" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.12</title>
       <pubDate>Wed, 04 Nov 2026 15:15:46 -0500</pubDate>
       <sparkle:version>202611041513</sparkle:version>
