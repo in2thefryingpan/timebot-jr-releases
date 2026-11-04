@@ -1,11 +1,11 @@
 {
-  "version": "0.3.19",
-  "notes": "Quotes is now Quotes and orders: one bar per order with the client's name, the CPQ quote number and where it's at (step 5 of 12 and so on). Sort by client or furthest along, and search by client, quote number or ticket.",
-  "pub_date": "2026-11-04T21:11:17Z",
+  "version": "0.3.20",
+  "notes": "Quotes now opens on Orders: every CPQ order with the client's name, where it's at (waiting on client payment, waiting on the vendor and so on), and its quote, sales order, invoice and POs one click away. The double-booked flag in To review is gone.",
+  "pub_date": "2026-11-04T21:25:38Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFo0THhoTTdDaStYMVk2Y1ZMRjFEWGlFVGxiVVprdFhmL21JellHb3RjMDluUzE4c29PVXUwZkF0TWYyNVprbEtSOEo0WDIxeW11d3RReDRrdms4eHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI2NjczCWZpbGU6VGltZUJvdC1Kci0wLjMuMTktV2luZG93cy1zZXR1cC5leGUKa1g4YlRwdlhzY3lMUXRsVW5RS1FWd2ZEVTNpLzRIY05vazJQL0tid3FWbi9WaEE4aUNIa3JoVE1tOUluZVlVOXlOQVRrdGxBREtEYWY1NUUwYk5QRGc9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.19/TimeBot-Jr-0.3.19-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGJoWElKZ2Z5U0gxUWxaa0lFZDhuTUVjajBQNWMxeU9Wa0w0ZjNmTGl1OXJ1UVovbVJ5Z2pmYlBNTU14RElYU0ErSmZwN2IxVGxqZmJIY0ZPWDZuREFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI3NTMzCWZpbGU6VGltZUJvdC1Kci0wLjMuMjAtV2luZG93cy1zZXR1cC5leGUKN1BBN0haU1Zta3BjMnRDZ2tkMllhZmZtbndybDlGeTgzelVRYWRUYnlwK2FZcld2bXVGNWZNbzM3cEJ1UnlZcW9iRTNvYVlpNnl2clQxYnZkeUZIQWc9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.20/TimeBot-Jr-0.3.20-Windows-setup.exe"
     }
   }
 }
