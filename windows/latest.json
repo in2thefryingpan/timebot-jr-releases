@@ -1,11 +1,11 @@
 {
-  "version": "0.3.24",
-  "notes": "\u2022 Clearer messages when ConnectWise refuses a change: they now name your own ConnectWise role and the setting to change\n\u2022 Editing a saved time entry explains a refusal instead of showing a raw error",
-  "pub_date": "2026-11-04T23:09:20Z",
+  "version": "0.3.25",
+  "notes": "Demo mode for managers (Settings > Demo): hides the Managers group and saves nothing to ConnectWise, for showing the app to the team",
+  "pub_date": "2026-11-04T23:26:52Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFFnT1doMWZrRkFSTlBQMU9DNmRueHlQKzBCYkgxTXV4SDMyazJnRUNxU1VSTDdBZHhvOWZwbkVOOXFaT2pTWjJmenkydjlGZTc0OERBanViR2hzdmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODMzNzU1CWZpbGU6VGltZUJvdC1Kci0wLjMuMjQtV2luZG93cy1zZXR1cC5leGUKSnpxR2FEQ2hBT0hxTFpYR1F3MnJMUU1GVkphTU1nUUxqaXdpcDlmTExRSWxxQzRScGhGRndaRE41QnFvZno1YWk1dzhHOFF1SDBHUVg3ZkNNb01ZQUE9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.24/TimeBot-Jr-0.3.24-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGZqeFVab1Z0Y1BCUnplRmV3c3h5VnpQQ1ptVjREUnYvblVUcGVQT04vSCsydUs4LzdUdFF6RThTbW9CN0MrMGh2bzF6U0FuVXNuaWdoeTRSODgyZ3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODM0ODA3CWZpbGU6VGltZUJvdC1Kci0wLjMuMjUtV2luZG93cy1zZXR1cC5leGUKZ0dIcDhJQnNQZ1J1aGZYSVh1aEs1c2k3QzRCWmhZZzZ0YjJMRGJIenFXVjJXRnEyTis0OVZ2SVNkc3RxcHAwSmR0b0dQTGFtQlk1ejZyNEJ3Ym1mQ2c9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.25/TimeBot-Jr-0.3.25-Windows-setup.exe"
     }
   }
 }
