@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.26</title>
+      <pubDate>Thu, 05 Nov 2026 12:33:58 -0500</pubDate>
+      <sparkle:version>202611051231</sparkle:version>
+      <sparkle:shortVersionString>0.3.26</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>All tickets (was Search all): filter by person, board and priority, with shared views and your own saved ones</li><li>Client pages show a Health card: critical and old tickets, the last planning meeting, and past-due invoices for managers</li><li>Tickets show their location (Remote or Onsite) and the client&#x27;s site, which opens in Maps</li><li>To review can sort by consultant, client or date</li><li>Newer features carry a Beta tag</li><li>The main window stays on its own Space and can go full screen</li><li>The Clients filters load faster and are remembered</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.26-202611051231/TimeBot-Jr-0.3.26.zip" type="application/octet-stream" sparkle:edSignature="LMBD/dCWBtlqDXIAo1LC/F3cZDVhaJg3d+brN5R9LHYZSnuyqAFdexBY33NhEtuXn/Pm/OJ0LxeQn5cO9hPeAQ==" length="6109757" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.25</title>
       <pubDate>Thu, 05 Nov 2026 11:47:19 -0500</pubDate>
       <sparkle:version>202611051145</sparkle:version>
