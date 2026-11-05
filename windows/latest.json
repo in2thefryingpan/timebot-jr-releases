@@ -1,11 +1,11 @@
 {
-  "version": "0.3.31",
-  "notes": "\u2022 All tickets (was Search all): filter by person, board and priority, with shared views and your own saved ones\n\u2022 Client pages show a Health card: critical and old tickets, the last planning meeting, and past-due invoices for managers\n\u2022 Tickets show their location (Remote or Onsite) and the client's site, which opens in Maps\n\u2022 To review can sort by consultant, client or date\n\u2022 Newer features carry a Beta tag\n\u2022 The Clients filters load faster and are remembered",
-  "pub_date": "2026-11-05T17:38:17Z",
+  "version": "0.3.32",
+  "notes": "\u2022 My numbers on My time: your own hours, billable and utilization, folded away until you click it\n\u2022 Breadcrumbs above every ticket and client page, each step a link back\n\u2022 All tickets is tidier: the list and filters on one line, Views as links underneath\n\u2022 Search says every open item",
+  "pub_date": "2026-11-05T18:03:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFd4VUY3Mys0STdVS09zbjNzcDArYjR6cC9FUXRDeHFTNkJtWWtOZjkzSWN0MlBPTzhHa2hmNll5YW9xSlhjTzYyMDhobXFVaHdRT2o2dFlDejlkNFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAwMjkzCWZpbGU6VGltZUJvdC1Kci0wLjMuMzEtV2luZG93cy1zZXR1cC5leGUKbmxNdzZhb0wwK3B4YXZESytsbGtDRmdRRFF2L2gwcEhqRU1BSzQ4cWZCYXovUUJ1aWN0dmVGV3FTbVlYQWtCV3pEbUxBRGh5dEdoTkNmQTBtMis1Q0E9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.31/TimeBot-Jr-0.3.31-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFd6WTNGemJkM3ZjbCtMMEJMS3JEcnZicjBLTFpuTm9wWVRpQklMTVN4eGZEUy81YlhZQlE2NzFXUGdJSkc0Z0dwVlJFaTFlUk0zWDZoallnVTdia1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAxODMyCWZpbGU6VGltZUJvdC1Kci0wLjMuMzItV2luZG93cy1zZXR1cC5leGUKckdjeGdDNllpTy9xdnpDc0I0T2g4dTlzMnV3bzY5NWNjR3NyMWxJQVNyRTVhaU1NSGF1U28vc0hTWnZQbjJrRFdpSTBUTmtCRGdITUszZW9FOXJzQ2c9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.32/TimeBot-Jr-0.3.32-Windows-setup.exe"
     }
   }
 }
