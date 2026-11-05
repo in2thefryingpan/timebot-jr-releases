@@ -1,11 +1,11 @@
 {
-  "version": "0.3.32",
-  "notes": "\u2022 My numbers on My time: your own hours, billable and utilization, folded away until you click it\n\u2022 Breadcrumbs above every ticket and client page, each step a link back\n\u2022 All tickets is tidier: the list and filters on one line, Views as links underneath\n\u2022 Search says every open item",
-  "pub_date": "2026-11-05T18:03:57Z",
+  "version": "0.3.33",
+  "notes": "\u2022 To review: pick several entries with Shift-click or Ctrl-click and mark them together\n\u2022 To review: fix a ticket's title while reviewing\n\u2022 To review: only entries on a submitted time sheet show up\n\u2022 To review: every group has a Mark reviewed button, one entry or many",
+  "pub_date": "2026-11-05T23:01:24Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFd6WTNGemJkM3ZjbCtMMEJMS3JEcnZicjBLTFpuTm9wWVRpQklMTVN4eGZEUy81YlhZQlE2NzFXUGdJSkc0Z0dwVlJFaTFlUk0zWDZoallnVTdia1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAxODMyCWZpbGU6VGltZUJvdC1Kci0wLjMuMzItV2luZG93cy1zZXR1cC5leGUKckdjeGdDNllpTy9xdnpDc0I0T2g4dTlzMnV3bzY5NWNjR3NyMWxJQVNyRTVhaU1NSGF1U28vc0hTWnZQbjJrRFdpSTBUTmtCRGdITUszZW9FOXJzQ2c9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.32/TimeBot-Jr-0.3.32-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFphR2M1Wm5QNWxRZTJ6VjE5Z2tHMGxlSHMzd2p5RzUvN2sxYjA5YlRoeEJGV2JKU2tvUHl6Qmp1WUdlQndQcC9PSFlxQ1lKUkRic1k2Ymptb1YwVlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTE5NjgwCWZpbGU6VGltZUJvdC1Kci0wLjMuMzMtV2luZG93cy1zZXR1cC5leGUKbG9MRUhVdFFzWUJPWmpvYXdCR3ZJd3lYcEErK21BTy8xcHlwaHlSaVZyUEhTQnIzMS9QVnhhNkFwbVhjalNEK0tVb1YzLzdkdVpUZUxMTlc4c0tMQmc9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.33/TimeBot-Jr-0.3.33-Windows-setup.exe"
     }
   }
 }
