@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.25</title>
+      <pubDate>Thu, 05 Nov 2026 11:47:19 -0500</pubDate>
+      <sparkle:version>202611051145</sparkle:version>
+      <sparkle:shortVersionString>0.3.25</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Search any ticket: Open, Unassigned, Closed, Everything, or Stenhouse inbox (emailed in from unknown senders)</li><li>Search also matches the contact&#x27;s name</li><li>Merge tickets: tick them, then Merge into, or right-click one to merge the others into it</li><li>Choose which ticket to keep from a list</li><li>My tickets shows how old each ticket is, its priority, and the newest note</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.25-202611051145/TimeBot-Jr-0.3.25.zip" type="application/octet-stream" sparkle:edSignature="5KXZSHN/LDc9Hv0QD2+x5dDlpsvExGBP88xBeEFH0myCDjFSv8hlv/7dXyUzzxNZP5u3RZCYuHKpek7mRNtZBA==" length="6003817" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.24</title>
       <pubDate>Thu, 05 Nov 2026 11:12:40 -0500</pubDate>
       <sparkle:version>202611051109</sparkle:version>
