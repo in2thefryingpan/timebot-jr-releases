@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.24</title>
+      <pubDate>Thu, 05 Nov 2026 11:12:40 -0500</pubDate>
+      <sparkle:version>202611051109</sparkle:version>
+      <sparkle:shortVersionString>0.3.24</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Close now uses the right close status on every board (&gt;Closed* on Service Desk) and never cancels a ticket by mistake</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.24-202611051109/TimeBot-Jr-0.3.24.zip" type="application/octet-stream" sparkle:edSignature="pXfYbtf7XQXeXevWI2k5lkMLIgSkePyVcf7ilgDJb3A1kBRDVsxUfDNHOnAw3lo0tKfYYKuxeNqPmvnXHiP0Bg==" length="5932134" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.23</title>
       <pubDate>Thu, 05 Nov 2026 10:36:53 -0500</pubDate>
       <sparkle:version>202611051034</sparkle:version>
