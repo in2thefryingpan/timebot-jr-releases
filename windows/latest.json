@@ -1,11 +1,11 @@
 {
-  "version": "0.3.33",
-  "notes": "\u2022 To review: pick several entries with Shift-click or Ctrl-click and mark them together\n\u2022 To review: fix a ticket's title while reviewing\n\u2022 To review: only entries on a submitted time sheet show up\n\u2022 To review: every group has a Mark reviewed button, one entry or many",
-  "pub_date": "2026-11-05T23:01:24Z",
+  "version": "0.3.34",
+  "notes": "To review: help another manager by picking their clients from the menu (My clients is still the default)",
+  "pub_date": "2026-11-05T23:36:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFphR2M1Wm5QNWxRZTJ6VjE5Z2tHMGxlSHMzd2p5RzUvN2sxYjA5YlRoeEJGV2JKU2tvUHl6Qmp1WUdlQndQcC9PSFlxQ1lKUkRic1k2Ymptb1YwVlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTE5NjgwCWZpbGU6VGltZUJvdC1Kci0wLjMuMzMtV2luZG93cy1zZXR1cC5leGUKbG9MRUhVdFFzWUJPWmpvYXdCR3ZJd3lYcEErK21BTy8xcHlwaHlSaVZyUEhTQnIzMS9QVnhhNkFwbVhjalNEK0tVb1YzLzdkdVpUZUxMTlc4c0tMQmc9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.33/TimeBot-Jr-0.3.33-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFV4NGVJT2FsYjZSSENjaUdWNGRSNlJGek5qM2FWN0tMNTIydW5rZjM5QzJIbFdTWkhOek9LMHh2TnhuQXNoZENOcnRzTGFlMjVMenJ5bm82WGNua2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTIxNzYyCWZpbGU6VGltZUJvdC1Kci0wLjMuMzQtV2luZG93cy1zZXR1cC5leGUKUlVhOHdQazA2UkpmYXl6ZjFkN2x4UkFQR2NsQWZBYko1M0pUbW1FeWZFYmkrNS9ldVc5cENqWUx2L0ljK1g5Yy9RcExoV3YySDhJM2NsMTI1azF1QWc9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.34/TimeBot-Jr-0.3.34-Windows-setup.exe"
     }
   }
 }
