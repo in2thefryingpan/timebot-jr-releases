@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.28</title>
+      <pubDate>Thu, 05 Nov 2026 17:55:52 -0500</pubDate>
+      <sparkle:version>202611051753</sparkle:version>
+      <sparkle:shortVersionString>0.3.28</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>To review: pick several entries with Shift-click or Cmd-click and mark them together</li><li>To review: fix a ticket&#x27;s title while reviewing</li><li>To review: only entries on a submitted time sheet show up</li><li>To review: every group has a Mark reviewed button, one entry or many</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.28-202611051753/TimeBot-Jr-0.3.28.zip" type="application/octet-stream" sparkle:edSignature="S3ZXb6xSc/3bhT86Ga/4lTi60VIRhoUiwGgW/iOhhnNNbR8lNZSJIlLpTs116fxoaA3jOmVrrsTpqt5UAA//Cg==" length="6244603" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.27</title>
       <pubDate>Thu, 05 Nov 2026 12:58:07 -0500</pubDate>
       <sparkle:version>202611051255</sparkle:version>
