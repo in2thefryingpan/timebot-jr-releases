@@ -1,11 +1,11 @@
 {
-  "version": "0.3.29",
-  "notes": "Close now uses the right close status on every board (>Closed* on Service Desk) and never cancels a ticket by mistake",
-  "pub_date": "2026-11-05T16:10:20Z",
+  "version": "0.3.30",
+  "notes": "\u2022 Search any ticket: Open, Unassigned, Closed, Everything, or Stenhouse inbox (emailed in from unknown senders)\n\u2022 Search also matches the contact's name\n\u2022 Merge tickets: tick them, then Merge into, or right-click one to merge the others into it\n\u2022 Choose which ticket to keep from a list\n\u2022 My tickets shows how old each ticket is, its priority, and the newest note",
+  "pub_date": "2026-11-05T16:52:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFI3YWJnQjNnb1R4U3ZyTFo2aW1ycjFJNE80QkU4MnhqNWFrZ2Uxb2ZEM09za2JTRm8xa1ZNQmVLbWhZRFF1UXNLRWhCdzhka2JRb3FIZ1ZTdERPQ1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk1MDEzCWZpbGU6VGltZUJvdC1Kci0wLjMuMjktV2luZG93cy1zZXR1cC5leGUKSXZJWGRmZHpnSWEwUGV0MGZlN1VJSitnazNNaFFMdzRyQUJSUittcWZ1dDhRS2VSK2Z3Tm02cmJHYlFLYi9BcERuUE11QitBVVY0S2ZMMFUybHNmQ1E9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.29/TimeBot-Jr-0.3.29-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGFGVVZqZC9DVkZRTGRzRjBEM2lVN2FTcHpYTWZJam84L1laeTIyOUlGTjdVV1JiYXVkRlZQSnI1UyswUTU3TVZsNThCa3dGZGg3bnM5ZkFlM2wxUkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk3NTQ3CWZpbGU6VGltZUJvdC1Kci0wLjMuMzAtV2luZG93cy1zZXR1cC5leGUKdVV1NEkrbnVSait6UzY1QW1UL2xaaDF4MEpsWXpYekc0eHdOZjhiSG5EK1lmK05qaFhrMXNkdWRobjhkZnIwVEl5dk1KRGNEMlc4d0FmbHB2c1R6RHc9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.30/TimeBot-Jr-0.3.30-Windows-setup.exe"
     }
   }
 }
