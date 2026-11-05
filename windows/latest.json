@@ -1,11 +1,11 @@
 {
-  "version": "0.3.25",
-  "notes": "Demo mode for managers (Settings > Demo): hides the Managers group and saves nothing to ConnectWise, for showing the app to the team",
-  "pub_date": "2026-11-04T23:26:52Z",
+  "version": "0.3.26",
+  "notes": "\u2022 Demo mode now saves for real. It only hides the Managers group (To review, Team, App Metrics)\n\u2022 The sidebar says Demo mode: Managers hidden while it's on",
+  "pub_date": "2026-11-05T13:23:06Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGZqeFVab1Z0Y1BCUnplRmV3c3h5VnpQQ1ptVjREUnYvblVUcGVQT04vSCsydUs4LzdUdFF6RThTbW9CN0MrMGh2bzF6U0FuVXNuaWdoeTRSODgyZ3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODM0ODA3CWZpbGU6VGltZUJvdC1Kci0wLjMuMjUtV2luZG93cy1zZXR1cC5leGUKZ0dIcDhJQnNQZ1J1aGZYSVh1aEs1c2k3QzRCWmhZZzZ0YjJMRGJIenFXVjJXRnEyTis0OVZ2SVNkc3RxcHAwSmR0b0dQTGFtQlk1ejZyNEJ3Ym1mQ2c9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.25/TimeBot-Jr-0.3.25-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGFLclJuYzhyc3FGYjBZamhaR2orMW1QZXBZMkUyRXZQVFczNWNHMTBkaUU1MElVMytNVUl3amFhK3hQaG1zb0w2RVRZcFZIUE1BSk5CWXFBSGFXdXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODg0OTc5CWZpbGU6VGltZUJvdC1Kci0wLjMuMjYtV2luZG93cy1zZXR1cC5leGUKWWJrcDd5S2plTVRERUpxQkFYaVh1VVRBcTVKN0d0ZW02WXovc0h2TWVPSEMzSmVTYi9pdG1TTFk4YXhMODQ2aXJCTlpINnJBOE5oaXZ3QVgrVnAxQ3c9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.26/TimeBot-Jr-0.3.26-Windows-setup.exe"
     }
   }
 }
