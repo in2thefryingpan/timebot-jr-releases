@@ -1,11 +1,11 @@
 {
-  "version": "0.3.30",
-  "notes": "\u2022 Search any ticket: Open, Unassigned, Closed, Everything, or Stenhouse inbox (emailed in from unknown senders)\n\u2022 Search also matches the contact's name\n\u2022 Merge tickets: tick them, then Merge into, or right-click one to merge the others into it\n\u2022 Choose which ticket to keep from a list\n\u2022 My tickets shows how old each ticket is, its priority, and the newest note",
-  "pub_date": "2026-11-05T16:52:33Z",
+  "version": "0.3.31",
+  "notes": "\u2022 All tickets (was Search all): filter by person, board and priority, with shared views and your own saved ones\n\u2022 Client pages show a Health card: critical and old tickets, the last planning meeting, and past-due invoices for managers\n\u2022 Tickets show their location (Remote or Onsite) and the client's site, which opens in Maps\n\u2022 To review can sort by consultant, client or date\n\u2022 Newer features carry a Beta tag\n\u2022 The Clients filters load faster and are remembered",
+  "pub_date": "2026-11-05T17:38:17Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGFGVVZqZC9DVkZRTGRzRjBEM2lVN2FTcHpYTWZJam84L1laeTIyOUlGTjdVV1JiYXVkRlZQSnI1UyswUTU3TVZsNThCa3dGZGg3bnM5ZkFlM2wxUkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk3NTQ3CWZpbGU6VGltZUJvdC1Kci0wLjMuMzAtV2luZG93cy1zZXR1cC5leGUKdVV1NEkrbnVSait6UzY1QW1UL2xaaDF4MEpsWXpYekc0eHdOZjhiSG5EK1lmK05qaFhrMXNkdWRobjhkZnIwVEl5dk1KRGNEMlc4d0FmbHB2c1R6RHc9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.30/TimeBot-Jr-0.3.30-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFd4VUY3Mys0STdVS09zbjNzcDArYjR6cC9FUXRDeHFTNkJtWWtOZjkzSWN0MlBPTzhHa2hmNll5YW9xSlhjTzYyMDhobXFVaHdRT2o2dFlDejlkNFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAwMjkzCWZpbGU6VGltZUJvdC1Kci0wLjMuMzEtV2luZG93cy1zZXR1cC5leGUKbmxNdzZhb0wwK3B4YXZESytsbGtDRmdRRFF2L2gwcEhqRU1BSzQ4cWZCYXovUUJ1aWN0dmVGV3FTbVlYQWtCV3pEbUxBRGh5dEdoTkNmQTBtMis1Q0E9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.31/TimeBot-Jr-0.3.31-Windows-setup.exe"
     }
   }
 }
