@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.21</title>
+      <pubDate>Thu, 05 Nov 2026 08:18:36 -0500</pubDate>
+      <sparkle:version>202611050816</sparkle:version>
+      <sparkle:shortVersionString>0.3.21</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Demo mode now saves for real. It only hides the Managers group (To review, Team, App Metrics)</li><li>The sidebar says Demo mode: Managers hidden while it&#x27;s on</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.21-202611050816/TimeBot-Jr-0.3.21.zip" type="application/octet-stream" sparkle:edSignature="xs7Md009sRCpPYaB8IHx8fHICQep9+zf5GJRJ7W/0ZVGOc9oy30Oa1jcrxA9Zu8oWZgi0Y1nUKeJnLuIbzlrCg==" length="5921840" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.20</title>
       <pubDate>Wed, 04 Nov 2026 18:22:25 -0500</pubDate>
       <sparkle:version>202611041820</sparkle:version>
