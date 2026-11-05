@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.27</title>
+      <pubDate>Thu, 05 Nov 2026 12:58:07 -0500</pubDate>
+      <sparkle:version>202611051255</sparkle:version>
+      <sparkle:shortVersionString>0.3.27</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>My numbers on My time: your own hours, billable and utilization, folded away until you click it</li><li>Breadcrumbs above every ticket and client page, each step a link back</li><li>All tickets is tidier: the list and filters on one line, Views as links underneath</li><li>Search says every open item; the sidebar says My tickets</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.27-202611051255/TimeBot-Jr-0.3.27.zip" type="application/octet-stream" sparkle:edSignature="bUMXjMA+5ARcZ0Aimg7rVZzvVpxHgKaUFywX2/FP8xPB4XDULE+f7NIb23CH+ms+WPcWfidJyFPlI+NpWyCTCw==" length="6182170" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.26</title>
       <pubDate>Thu, 05 Nov 2026 12:33:58 -0500</pubDate>
       <sparkle:version>202611051231</sparkle:version>
