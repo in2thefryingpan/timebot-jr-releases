@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.29</title>
+      <pubDate>Thu, 05 Nov 2026 18:18:59 -0500</pubDate>
+      <sparkle:version>202611051816</sparkle:version>
+      <sparkle:shortVersionString>0.3.29</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>To review: help another manager by picking their clients from the menu (My clients is still the default)</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.29-202611051816/TimeBot-Jr-0.3.29.zip" type="application/octet-stream" sparkle:edSignature="26y3W6rJQZZeuUlhcmMmQTfendcB30z88WQKSmwea1tylH5KIbn6l6xQNhTVSDnprYrXfJBIK4NJm1oDTKBzAQ==" length="6254727" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.28</title>
       <pubDate>Thu, 05 Nov 2026 17:55:52 -0500</pubDate>
       <sparkle:version>202611051753</sparkle:version>
