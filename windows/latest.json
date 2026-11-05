@@ -1,11 +1,11 @@
 {
-  "version": "0.3.26",
-  "notes": "\u2022 Demo mode now saves for real. It only hides the Managers group (To review, Team, App Metrics)\n\u2022 The sidebar says Demo mode: Managers hidden while it's on",
-  "pub_date": "2026-11-05T13:23:06Z",
+  "version": "0.3.28",
+  "notes": "\u2022 New Appearance options in Settings: Transparency (Solid, A little, Normal) and High contrast\n\u2022 When ConnectWise refuses something, the message now shows ConnectWise's own reason",
+  "pub_date": "2026-11-05T15:40:34Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGFLclJuYzhyc3FGYjBZamhaR2orMW1QZXBZMkUyRXZQVFczNWNHMTBkaUU1MElVMytNVUl3amFhK3hQaG1zb0w2RVRZcFZIUE1BSk5CWXFBSGFXdXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODg0OTc5CWZpbGU6VGltZUJvdC1Kci0wLjMuMjYtV2luZG93cy1zZXR1cC5leGUKWWJrcDd5S2plTVRERUpxQkFYaVh1VVRBcTVKN0d0ZW02WXovc0h2TWVPSEMzSmVTYi9pdG1TTFk4YXhMODQ2aXJCTlpINnJBOE5oaXZ3QVgrVnAxQ3c9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.26/TimeBot-Jr-0.3.26-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFN6ZW05T0lFRXNaSDM4ZmpXOC8wRGtqK3F1WmJiY1RVZDJhOUlObmhES3UrMEZrRXVQY0huU0l4QUJudFFPTnVQWEcvWDE5TnNEaVRZbWovZUhTN0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODkzMjI5CWZpbGU6VGltZUJvdC1Kci0wLjMuMjgtV2luZG93cy1zZXR1cC5leGUKaU1GeDZxcjJneXJLZzBLRFBSUmQvR3R0U2Q0OTZaMWVvdEJUQUlldTR1VHBpOXFBWmg3dzEvWmFsakpzZ3N3djR1ZUpjM2NndkxlamhxODdEUzI3Q2c9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.28/TimeBot-Jr-0.3.28-Windows-setup.exe"
     }
   }
 }
