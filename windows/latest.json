@@ -1,11 +1,11 @@
 {
-  "version": "0.3.28",
-  "notes": "\u2022 New Appearance options in Settings: Transparency (Solid, A little, Normal) and High contrast\n\u2022 When ConnectWise refuses something, the message now shows ConnectWise's own reason",
-  "pub_date": "2026-11-05T15:40:34Z",
+  "version": "0.3.29",
+  "notes": "Close now uses the right close status on every board (>Closed* on Service Desk) and never cancels a ticket by mistake",
+  "pub_date": "2026-11-05T16:10:20Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFN6ZW05T0lFRXNaSDM4ZmpXOC8wRGtqK3F1WmJiY1RVZDJhOUlObmhES3UrMEZrRXVQY0huU0l4QUJudFFPTnVQWEcvWDE5TnNEaVRZbWovZUhTN0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODkzMjI5CWZpbGU6VGltZUJvdC1Kci0wLjMuMjgtV2luZG93cy1zZXR1cC5leGUKaU1GeDZxcjJneXJLZzBLRFBSUmQvR3R0U2Q0OTZaMWVvdEJUQUlldTR1VHBpOXFBWmg3dzEvWmFsakpzZ3N3djR1ZUpjM2NndkxlamhxODdEUzI3Q2c9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.28/TimeBot-Jr-0.3.28-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFI3YWJnQjNnb1R4U3ZyTFo2aW1ycjFJNE80QkU4MnhqNWFrZ2Uxb2ZEM09za2JTRm8xa1ZNQmVLbWhZRFF1UXNLRWhCdzhka2JRb3FIZ1ZTdERPQ1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk1MDEzCWZpbGU6VGltZUJvdC1Kci0wLjMuMjktV2luZG93cy1zZXR1cC5leGUKSXZJWGRmZHpnSWEwUGV0MGZlN1VJSitnazNNaFFMdzRyQUJSUittcWZ1dDhRS2VSK2Z3Tm02cmJHYlFLYi9BcERuUE11QitBVVY0S2ZMMFUybHNmQ1E9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.29/TimeBot-Jr-0.3.29-Windows-setup.exe"
     }
   }
 }
