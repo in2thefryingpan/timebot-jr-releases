@@ -1,11 +1,11 @@
 {
-  "version": "0.3.41",
-  "notes": "\u2022 New ticket points at a ticket that already says the same thing, with Use that one\n\u2022 Android Auto: connecting pauses the timer and asks to book the time",
-  "pub_date": "2026-11-06T14:07:39Z",
+  "version": "0.3.42",
+  "notes": "After hours and Emergency work takes a start and stop time, booked into ConnectWise as the real window",
+  "pub_date": "2026-11-06T23:55:12Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFpvNjZGM3ZBYjhwYzdCU01BekVXQlV1U0x2NXNuQnI2Q1locTAra3BHSTcwMU5CUllmaFFIRUVJUTB4bmtqRkZhbTN5ZjVyMTRQVzJOQnZ5WVV0aWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc0MDUxCWZpbGU6VGltZUJvdC1Kci0wLjMuNDEtV2luZG93cy1zZXR1cC5leGUKc2xtQjRlODVLQ2NjakNTd3Z3cjlTRWYxMGJubVpveVhYWmlsTkp0aE80WkkzQm8yWlRwNjlLWXZQeDg1M21xVWxqOXhRR0hUMjFEa0NORXIzWVNrQ0E9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.41/TimeBot-Jr-0.3.41-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFlUUERsVGRuUVFzUzJFWTc2SlZsb29lcmlhS1l3TlV0R21pY1JsTmY5Q0gzeDE4czVqKzdadmd0OFRDVnBMblJvTmp3M0pJNlBUQ3RLd3RDU291R0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDA5MzA3CWZpbGU6VGltZUJvdC1Kci0wLjMuNDItV2luZG93cy1zZXR1cC5leGUKN1VzY2NhSDl4M3U3WnkvbDBRRDB4a2I0eHV4K3JSdG1hdzJHcUY3WGZ1UHVTVmJ0Qm90SEpLelQ3TG5BNTV1dXB4Y25ST1MzeTBZT3g4VjBKcURzRGc9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.42/TimeBot-Jr-0.3.42-Windows-setup.exe"
     }
   }
 }
