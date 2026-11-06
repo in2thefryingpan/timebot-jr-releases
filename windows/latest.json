@@ -1,11 +1,11 @@
 {
-  "version": "0.3.34",
-  "notes": "To review: help another manager by picking their clients from the menu (My clients is still the default)",
-  "pub_date": "2026-11-05T23:36:09Z",
+  "version": "0.3.35",
+  "notes": "\u2022 My numbers shows the PTO you have left this year\n\u2022 Team shows everyone's PTO left (managers)\n\u2022 To review: a Consultant filter, and every manager is in the whose-clients menu\n\u2022 Dropdowns open in the app's own style",
+  "pub_date": "2026-11-06T01:35:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFV4NGVJT2FsYjZSSENjaUdWNGRSNlJGek5qM2FWN0tMNTIydW5rZjM5QzJIbFdTWkhOek9LMHh2TnhuQXNoZENOcnRzTGFlMjVMenJ5bm82WGNua2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTIxNzYyCWZpbGU6VGltZUJvdC1Kci0wLjMuMzQtV2luZG93cy1zZXR1cC5leGUKUlVhOHdQazA2UkpmYXl6ZjFkN2x4UkFQR2NsQWZBYko1M0pUbW1FeWZFYmkrNS9ldVc5cENqWUx2L0ljK1g5Yy9RcExoV3YySDhJM2NsMTI1azF1QWc9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.34/TimeBot-Jr-0.3.34-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGZXdERMemVtSWZaZGpFZnVZUVRCelFBbFIvYXhoMElKemtTdktOblFxTEJ6eU5CU2haSmNjQWdSY1BnNG5wUzFYR3lXMit2TXFaSmpUM1o3b1ZiblFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTI4OTA0CWZpbGU6VGltZUJvdC1Kci0wLjMuMzUtV2luZG93cy1zZXR1cC5leGUKdWVDRnZuZ2IxTXBEWFZhT2Q2UXFSRkQyZkM3TnQwZDg5eVI5Y0tUUGE5Tko2VWVJQUFGOThEV2RqMXFNKzdaemRwQXp6dEUrVk9XMlk5L2FiZWJBQUE9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.35/TimeBot-Jr-0.3.35-Windows-setup.exe"
     }
   }
 }
