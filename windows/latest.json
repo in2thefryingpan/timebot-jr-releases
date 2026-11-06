@@ -1,11 +1,11 @@
 {
-  "version": "0.3.36",
-  "notes": "Refinement of duplicate booking logic for time review",
-  "pub_date": "2026-11-06T01:42:52Z",
+  "version": "0.3.37",
+  "notes": "\u2022 Warns you before saving what looks like a duplicate entry\n\u2022 App Metrics shows adoption, speed, quality and health",
+  "pub_date": "2026-11-06T02:05:43Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFcvSS9UZWJxSGZvc3prOGFKeFRWaTZzdjJrK2xhaUNTRlJPVWI5d2VRQkhYaHBRWE9FVThROXZWd0hpOStaR1VJaUxQK2s1UXk3MkNNV1Ewais5YkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTI5MzY3CWZpbGU6VGltZUJvdC1Kci0wLjMuMzYtV2luZG93cy1zZXR1cC5leGUKNE9BNXYxZThvWGI1WC9UQVcwUWFZQndtd2VQd2loT3RsWlp0eW9VY3EyNEZVTUlOaWhsbGhxbDBmMnRSb3JvOXljOFBGTXZWSm1FdGJoSlpWK0RkRGc9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.36/TimeBot-Jr-0.3.36-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGRqbmRhT1FzUi9GdTlNRWxoWkFQOVNKcW1WR1IvSkwzb1hWOVZ4UFdGMTJ1RjFISzdXOEc0ZHdBaURxbUxZRWZhZ1VWTGNPYThQZzRtVkhpQU9lcUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTMwNzM5CWZpbGU6VGltZUJvdC1Kci0wLjMuMzctV2luZG93cy1zZXR1cC5leGUKM1l1cUJpTUwzK0hLalF6dldBaVpBQUJqeEhtK2Voekk1cWtMdDVpUFhuVXJlQlpvT2pwNzRPeWtuZHZKZjRPclZna1lnM3p6ZUdYaXFjSXlUdmlhQmc9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.37/TimeBot-Jr-0.3.37-Windows-setup.exe"
     }
   }
 }
