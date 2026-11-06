@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.37</title>
+      <pubDate>Fri, 06 Nov 2026 18:49:41 -0500</pubDate>
+      <sparkle:version>202611061847</sparkle:version>
+      <sparkle:shortVersionString>0.3.37</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>After hours and Emergency work takes a start and stop time, booked into ConnectWise as the real window.</li><li>My time&#x27;s Add time now has work type, billing, the site visit fee, the site, and start/stop for after hours.</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.37-202611061847/TimeBot-Jr-0.3.37.zip" type="application/octet-stream" sparkle:edSignature="Lm4BOQplo4B9HHIptqusiD6MZhH3+Sg9luiB/OHp5EPGeuUrt/kEwZ6pfo+f8ITCJ3frkOfvWuFe0rAqvI/QAg==" length="6653099" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.36</title>
       <pubDate>Fri, 06 Nov 2026 10:42:33 -0500</pubDate>
       <sparkle:version>202611061040</sparkle:version>
