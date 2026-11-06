@@ -1,11 +1,11 @@
 {
-  "version": "0.3.39",
-  "notes": "App Metrics is tidier: headline numbers on top, then Sources, Habits and People tabs",
-  "pub_date": "2026-11-06T02:35:23Z",
+  "version": "0.3.40",
+  "notes": "\u2022 Warns when a note looks like work you already booked on another ticket at that client in the last 5 days\n\u2022 Asks before booking a maintenance ticket as any other work type\n\u2022 To review flags both of those\n\u2022 Client profiles show Other Consultants",
+  "pub_date": "2026-11-06T03:24:22Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFdrVFJyRjFZZWxSRG9rVXlIbTlLRTNPSDJuSkgrYW1ONjE4NzhvMEFqb3N3aktlTG5HZXRza3hyRjU2VU9EeEVmeWNtbzFZeUMxZldMSHA2ZzRSZGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTMyNTE2CWZpbGU6VGltZUJvdC1Kci0wLjMuMzktV2luZG93cy1zZXR1cC5leGUKbmYzYjdqR1lzVGtkc2krTFFYeTZOQ2ZpdWdNV0JtOEdPY1ZoV2NrVDBZR2tnTkpNSnRTcmhXQVlqZVRMdVhwV09Fbk00Q1d3V2NZNElydm9BVzY3Qmc9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.39/TimeBot-Jr-0.3.39-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGR4VEt2UjhUYVpyb1c1THY5QnhPNU9HUkNSeXF1c2w3bXNiaXlUUWUxN3lhc2tNWEo2UFhNYWN5MGdGalI5MUJpWW8vRWNab011MFR6ekJ5SmpHbmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTM1NDU3CWZpbGU6VGltZUJvdC1Kci0wLjMuNDAtV2luZG93cy1zZXR1cC5leGUKcStuODlXbzJ5V0c1UW92TlpNYTI4ZCtwNzF0bi9WUTl6MFJCcEpiNjBLWVN3NXJ1RGd1dmFYci96aFkreWRjMElWMFJXbmpqeGZ6VjY0N016V25mRHc9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.40/TimeBot-Jr-0.3.40-Windows-setup.exe"
     }
   }
 }
