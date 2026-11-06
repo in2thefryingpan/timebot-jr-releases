@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.36</title>
+      <pubDate>Fri, 06 Nov 2026 10:42:33 -0500</pubDate>
+      <sparkle:version>202611061040</sparkle:version>
+      <sparkle:shortVersionString>0.3.36</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New ticket says &quot;Use that one?&quot; when a ticket like it is already open at that client, with a button to open it instead.</li><li>On the iPhone, getting in the car (CarPlay via a Shortcut) pauses the timer and asks whether to book the time.</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.36-202611061040/TimeBot-Jr-0.3.36.zip" type="application/octet-stream" sparkle:edSignature="KdzVXiSFcB9yjgWzYVE8eqsf7ft1EDLXWFhXOHm5P/k3ZZYQu5CVUaM7j/1WRjeTKa++Jov5IGPspNWjpdO2AQ==" length="6591385" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.35</title>
       <pubDate>Thu, 05 Nov 2026 22:20:25 -0500</pubDate>
       <sparkle:version>202611052218</sparkle:version>
