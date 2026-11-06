@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.34</title>
+      <pubDate>Thu, 05 Nov 2026 21:30:20 -0500</pubDate>
+      <sparkle:version>202611052128</sparkle:version>
+      <sparkle:shortVersionString>0.3.34</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>App Metrics is tidier: headline numbers on top, then Sources, Habits and People tabs</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.34-202611052128/TimeBot-Jr-0.3.34.zip" type="application/octet-stream" sparkle:edSignature="ZpXeCJggyL5QNNUaD2nUSXeQLjxaKhCRz8GzuIg+K7SE0rO8f/YfFPntEW4bMgeLWmJVSGb/eLWa4DjgxfdpDw==" length="6542201" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.33</title>
       <pubDate>Thu, 05 Nov 2026 21:19:37 -0500</pubDate>
       <sparkle:version>202611052117</sparkle:version>
