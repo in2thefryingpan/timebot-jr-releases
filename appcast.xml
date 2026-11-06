@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.31</title>
+      <pubDate>Thu, 05 Nov 2026 20:38:39 -0500</pubDate>
+      <sparkle:version>202611052036</sparkle:version>
+      <sparkle:shortVersionString>0.3.31</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Refinement of duplicate booking logic for time review</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.31-202611052036/TimeBot-Jr-0.3.31.zip" type="application/octet-stream" sparkle:edSignature="up1XCjzOSk6XnpGSd36C2V1y7s1GJ86ptPYWK1bXCFWe4muw3c5wIwwj+Swb5b/uo58fWvJoDBTi0qMJFWdKCA==" length="6373497" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.30</title>
       <pubDate>Thu, 05 Nov 2026 20:30:15 -0500</pubDate>
       <sparkle:version>202611052028</sparkle:version>
