@@ -1,11 +1,11 @@
 {
-  "version": "0.3.37",
-  "notes": "\u2022 Warns you before saving what looks like a duplicate entry\n\u2022 App Metrics shows adoption, speed, quality and health",
-  "pub_date": "2026-11-06T02:05:43Z",
+  "version": "0.3.38",
+  "notes": "App Metrics shows whether people log more after switching to the app",
+  "pub_date": "2026-11-06T02:23:19Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGRqbmRhT1FzUi9GdTlNRWxoWkFQOVNKcW1WR1IvSkwzb1hWOVZ4UFdGMTJ1RjFISzdXOEc0ZHdBaURxbUxZRWZhZ1VWTGNPYThQZzRtVkhpQU9lcUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTMwNzM5CWZpbGU6VGltZUJvdC1Kci0wLjMuMzctV2luZG93cy1zZXR1cC5leGUKM1l1cUJpTUwzK0hLalF6dldBaVpBQUJqeEhtK2Voekk1cWtMdDVpUFhuVXJlQlpvT2pwNzRPeWtuZHZKZjRPclZna1lnM3p6ZUdYaXFjSXlUdmlhQmc9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.37/TimeBot-Jr-0.3.37-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGE4Rm9TbVBBTTFML1Urb29Mc1JWaDJHWGt3cURJejVQeXhYOWQzVm1YcmVwRUJyVHVzSE9YVGxBaHlrNFVNSVIrZzk0MnlGcHpxT2V1N0ZYSDB3a2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTMxNzkzCWZpbGU6VGltZUJvdC1Kci0wLjMuMzgtV2luZG93cy1zZXR1cC5leGUKZmQzT0FSYUlpYi92cTR4bU1EQmdJam9EdHE5YzNhM1AvRjBPZUhDMUZQMDNKVFJZT0lwWVl4aXZSMGg4SCtMTTJaYUhhQzFaSkJYUk1oTEVtakNXQkE9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.38/TimeBot-Jr-0.3.38-Windows-setup.exe"
     }
   }
 }
