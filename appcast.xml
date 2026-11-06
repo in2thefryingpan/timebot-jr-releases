@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.30</title>
+      <pubDate>Thu, 05 Nov 2026 20:30:15 -0500</pubDate>
+      <sparkle:version>202611052028</sparkle:version>
+      <sparkle:shortVersionString>0.3.30</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>My numbers shows the PTO you have left this year</li><li>Team shows everyone&#x27;s PTO left (managers)</li><li>To review: a Consultant filter, and every manager is in the whose-clients menu</li><li>Dropdowns open in the app&#x27;s own style</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.30-202611052028/TimeBot-Jr-0.3.30.zip" type="application/octet-stream" sparkle:edSignature="3icwrqrLFIwaZzBK/aWoUi6ACAU+EKg10/2txu6sLCdQAFlU5dM31OxsKnXElp+zzHFFDSCdB0xpO1UcfyNZBw==" length="6369508" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.29</title>
       <pubDate>Thu, 05 Nov 2026 18:18:59 -0500</pubDate>
       <sparkle:version>202611051816</sparkle:version>
