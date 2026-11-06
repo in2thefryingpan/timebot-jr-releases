@@ -1,11 +1,11 @@
 {
-  "version": "0.3.38",
-  "notes": "App Metrics shows whether people log more after switching to the app",
-  "pub_date": "2026-11-06T02:23:19Z",
+  "version": "0.3.39",
+  "notes": "App Metrics is tidier: headline numbers on top, then Sources, Habits and People tabs",
+  "pub_date": "2026-11-06T02:35:23Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGE4Rm9TbVBBTTFML1Urb29Mc1JWaDJHWGt3cURJejVQeXhYOWQzVm1YcmVwRUJyVHVzSE9YVGxBaHlrNFVNSVIrZzk0MnlGcHpxT2V1N0ZYSDB3a2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTMxNzkzCWZpbGU6VGltZUJvdC1Kci0wLjMuMzgtV2luZG93cy1zZXR1cC5leGUKZmQzT0FSYUlpYi92cTR4bU1EQmdJam9EdHE5YzNhM1AvRjBPZUhDMUZQMDNKVFJZT0lwWVl4aXZSMGg4SCtMTTJaYUhhQzFaSkJYUk1oTEVtakNXQkE9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.38/TimeBot-Jr-0.3.38-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFdrVFJyRjFZZWxSRG9rVXlIbTlLRTNPSDJuSkgrYW1ONjE4NzhvMEFqb3N3aktlTG5HZXRza3hyRjU2VU9EeEVmeWNtbzFZeUMxZldMSHA2ZzRSZGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTMyNTE2CWZpbGU6VGltZUJvdC1Kci0wLjMuMzktV2luZG93cy1zZXR1cC5leGUKbmYzYjdqR1lzVGtkc2krTFFYeTZOQ2ZpdWdNV0JtOEdPY1ZoV2NrVDBZR2tnTkpNSnRTcmhXQVlqZVRMdVhwV09Fbk00Q1d3V2NZNElydm9BVzY3Qmc9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.39/TimeBot-Jr-0.3.39-Windows-setup.exe"
     }
   }
 }
