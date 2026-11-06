@@ -1,11 +1,11 @@
 {
-  "version": "0.3.40",
-  "notes": "\u2022 Warns when a note looks like work you already booked on another ticket at that client in the last 5 days\n\u2022 Asks before booking a maintenance ticket as any other work type\n\u2022 To review flags both of those\n\u2022 Client profiles show Other Consultants",
-  "pub_date": "2026-11-06T03:24:22Z",
+  "version": "0.3.41",
+  "notes": "\u2022 New ticket points at a ticket that already says the same thing, with Use that one\n\u2022 Android Auto: connecting pauses the timer and asks to book the time",
+  "pub_date": "2026-11-06T14:07:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGR4VEt2UjhUYVpyb1c1THY5QnhPNU9HUkNSeXF1c2w3bXNiaXlUUWUxN3lhc2tNWEo2UFhNYWN5MGdGalI5MUJpWW8vRWNab011MFR6ekJ5SmpHbmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTM1NDU3CWZpbGU6VGltZUJvdC1Kci0wLjMuNDAtV2luZG93cy1zZXR1cC5leGUKcStuODlXbzJ5V0c1UW92TlpNYTI4ZCtwNzF0bi9WUTl6MFJCcEpiNjBLWVN3NXJ1RGd1dmFYci96aFkreWRjMElWMFJXbmpqeGZ6VjY0N016V25mRHc9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.40/TimeBot-Jr-0.3.40-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFpvNjZGM3ZBYjhwYzdCU01BekVXQlV1U0x2NXNuQnI2Q1locTAra3BHSTcwMU5CUllmaFFIRUVJUTB4bmtqRkZhbTN5ZjVyMTRQVzJOQnZ5WVV0aWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc0MDUxCWZpbGU6VGltZUJvdC1Kci0wLjMuNDEtV2luZG93cy1zZXR1cC5leGUKc2xtQjRlODVLQ2NjakNTd3Z3cjlTRWYxMGJubVpveVhYWmlsTkp0aE80WkkzQm8yWlRwNjlLWXZQeDg1M21xVWxqOXhRR0hUMjFEa0NORXIzWVNrQ0E9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.41/TimeBot-Jr-0.3.41-Windows-setup.exe"
     }
   }
 }
