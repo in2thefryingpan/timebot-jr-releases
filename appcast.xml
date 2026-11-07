@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.38</title>
+      <pubDate>Sat, 07 Nov 2026 07:04:00 -0500</pubDate>
+      <sparkle:version>202611070701</sparkle:version>
+      <sparkle:shortVersionString>0.3.38</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Log time is simpler: hours, your note and Save, with one line like &quot;Today · Remote · Billable&quot;. Click that line to change the day, work type or billing.</li><li>My time has one Add button for ticket time, internal time, a new ticket or PTO. New ticket from My time books on the day you&#x27;re looking at.</li><li>New ticket&#x27;s Book time now lets you pick the day, up to 90 days back.</li><li>Support desk (managers and Marina): click a ticket to read it, again to open it beside the list. Tick several to assign or close them at once.</li><li>Time on this ticket and the set-once settings fold away until you want them.</li><li>The hours in the sidebar always match the day underneath.</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.38-202611070701/TimeBot-Jr-0.3.38.zip" type="application/octet-stream" sparkle:edSignature="5NhdUDgZWU8CHkNppaRr474WFF3JqIwdI3tx/oxyQ3b4AvsGrRzlOrGTIENptUnrh0cTupnYfCHjYBJ4ZPfFAw==" length="6878495" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.37</title>
       <pubDate>Fri, 06 Nov 2026 18:49:41 -0500</pubDate>
       <sparkle:version>202611061847</sparkle:version>
