@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.39</title>
+      <pubDate>Sat, 07 Nov 2026 08:19:35 -0500</pubDate>
+      <sparkle:version>202611070817</sparkle:version>
+      <sparkle:shortVersionString>0.3.39</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fix an entry&#x27;s day: the pencil on an entry now lets you move it to another day, at the same time of day (up to 90 days back).</li><li>If that week&#x27;s timesheet is already submitted, it tells you so plainly instead of a vague error.</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.39-202611070817/TimeBot-Jr-0.3.39.zip" type="application/octet-stream" sparkle:edSignature="rhK12hZzTbcIlrgHo1E4bbZzv/t7I/y7eK8q7uJH07n7lOeXLU/UZEFqRan24pDhe/010axJg46ScxJve0vbCQ==" length="6909864" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.38</title>
       <pubDate>Sat, 07 Nov 2026 07:04:00 -0500</pubDate>
       <sparkle:version>202611070701</sparkle:version>
