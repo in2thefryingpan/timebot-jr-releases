@@ -1,11 +1,11 @@
 {
-  "version": "0.3.43",
-  "notes": "\u2022 Log time is simpler: hours, your note and Save, with one line like \"Today \u00b7 Remote \u00b7 Billable\". Click that line to change the day, work type or billing.\n\u2022 My time has one Add button for ticket time, internal time, a new ticket or PTO. New ticket from My time books on the day you're looking at.\n\u2022 New ticket's Book time now lets you pick the day, up to 90 days back.\n\u2022 Support desk (managers and Marina): click a ticket to read it, again to open it beside the list. Tick several to assign or close them at once.\n\u2022 Time on this ticket and the set-once settings fold away until you want them.\n\u2022 The hours in the sidebar always match the day underneath.",
-  "pub_date": "2026-11-07T12:07:52Z",
+  "version": "0.3.44",
+  "notes": "\u2022 Fix an entry's day: the pencil on an entry now lets you move it to another day, at the same time of day (up to 90 days back).\n\u2022 If that week's timesheet is already submitted, it tells you so plainly instead of a vague error.",
+  "pub_date": "2026-11-07T13:23:51Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFJyWEZHMW1NbytwNFFNZXJ6RFpSbzdrM1NGRGZyL3BSWTV5UEdwWEZJYmlNMktDWUpvdytBd2tXWVBrVWlZNXBPY0tBV0swZ0xmdmxzVUw3RURXWHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDUzMjY4CWZpbGU6VGltZUJvdC1Kci0wLjMuNDMtV2luZG93cy1zZXR1cC5leGUKbDVZeE1JbnBIdUVlWGlNTDFjeUNBdGpFRGtRQVpvYzFFZmpKWEVRNXU1OWhSRk9pSW8vNEIwWXBPRW1IdlJjMjNTSnFzMmRxcHRPbkppU0FtZGN6Q3c9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.43/TimeBot-Jr-0.3.43-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFZtK3BIKzN2WjVGbnhKWEVrTFRPalJQYWpWdFFML0ZrNTNYbE1SQWdUU2xXaXFVS1krenEyMVh2d21WVGZnemQ3WjV1Sng4blpmdnhFUnl0NXdiaXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDU3ODIzCWZpbGU6VGltZUJvdC1Kci0wLjMuNDQtV2luZG93cy1zZXR1cC5leGUKcWZPRGRsMEFESjNKZ1kzcDZudXVMa0llaEhlSHNvNXFkZHNyZytjc3dZcW5LN2NDbzcxeUpqRDBjTHRSV0tYUlk3Zmk1aEFwcUd3WWlLZEpHeFVaQlE9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.44/TimeBot-Jr-0.3.44-Windows-setup.exe"
     }
   }
 }
