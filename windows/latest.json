@@ -1,11 +1,11 @@
 {
-  "version": "0.3.45",
-  "notes": "\u2022 Delete an entry: the pencil on an entry now has Delete. It asks first, and it can't touch a submitted week.\n\u2022 My time shows a number when you're behind: workdays in the last two weeks with no client time and less than a full day booked. It turns orange, then red at four, and shows on the app icon too.\n\u2022 Easter eggs!",
-  "pub_date": "2026-11-09T21:05:05Z",
+  "version": "0.3.46",
+  "notes": "\u2022 You can now start a new ticket right from Add time in My time. Pick New ticket in the switch at the top, or click \"Not in the list? Make a new ticket\" under the ticket list, and its time goes on the same day.\n\u2022 Time you've booked ahead, like PTO, now shows on the My time calendar with its hours.\n\u2022 You can now log time on a ticket from My time on any day. Click Add, choose Time on a ticket, and pick the ticket, and its Log time opens already set to the day you're looking at.\n\u2022 Internal time and New ticket in My time's Add menu now book on the day you're looking at, not always today.",
+  "pub_date": "2026-11-09T23:57:13Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFZyak9TZWJnNVZiZjFyRzRFc0lwSm1XMVhzYUwwektLb2syZG51SHdWcjhhVHdrRnYzMUdvWU8yUC80YkttUEp1QW5pOXVoQzJTKy9SdVlVQUN5WlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU4Mjk3CWZpbGU6VGltZUJvdC1Kci0wLjMuNDUtV2luZG93cy1zZXR1cC5leGUKdC9oTlY4cHdrOXE3Z0V3VTNVTjM3Q082eDE3ODQ1Q0pEV1AvT3dNc0dGS0lTMkZlMCt0cE1zOWVrSlBtVnFEMXBYbkQ1dGJCeTVuZU5sZnpSc25nQXc9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.45/TimeBot-Jr-0.3.45-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFgrdWNGN3V5aDVwcGhveExIYWZHYll0THVxOVJDQkVZYjRFZW4zdXA5UDVNcEVlYVlxZG9hZHhmWUFwYlJqb2VvdzRpOGUwR1IyU2ZSTktibnJPUGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjY4NjI2CWZpbGU6VGltZUJvdC1Kci0wLjMuNDYtV2luZG93cy1zZXR1cC5leGUKaHVjc3V0R2w5K3FjV1JDQ2ZJM1FWc1NYc1A3ekJOMFJQbTA4emVncmRXM2M1RUE3YXp0TnAyQ1Ria2RwNXBoWlZiakFlYmM0dHZLcnpnSVRZVVpnQnc9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.46/TimeBot-Jr-0.3.46-Windows-setup.exe"
     }
   }
 }
