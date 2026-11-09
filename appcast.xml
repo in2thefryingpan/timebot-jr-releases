@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.40</title>
+      <pubDate>Mon, 09 Nov 2026 16:07:06 -0500</pubDate>
+      <sparkle:version>202611091604</sparkle:version>
+      <sparkle:shortVersionString>0.3.40</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Delete an entry: the pencil on an entry now has Delete. It asks first, and it can&#x27;t touch a submitted week.</li><li>My time shows a number when you&#x27;re behind: workdays in the last two weeks with no client time and less than a full day booked. It turns orange, then red at four, and shows on the app icon too.</li><li>Easter eggs!</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.40-202611091604/TimeBot-Jr-0.3.40.zip" type="application/octet-stream" sparkle:edSignature="zFdp5Mjft79WwfaFNPS5GPU7Z1HCqreDqFfHcdTgZZu/DwkW68sV4/xO00n2wyeHAES1Hf/6kZpezJhFIr06AA==" length="7098826" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.39</title>
       <pubDate>Sat, 07 Nov 2026 08:19:35 -0500</pubDate>
       <sparkle:version>202611070817</sparkle:version>
