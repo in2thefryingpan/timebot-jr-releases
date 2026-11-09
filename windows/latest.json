@@ -1,11 +1,11 @@
 {
-  "version": "0.3.44",
-  "notes": "\u2022 Fix an entry's day: the pencil on an entry now lets you move it to another day, at the same time of day (up to 90 days back).\n\u2022 If that week's timesheet is already submitted, it tells you so plainly instead of a vague error.",
-  "pub_date": "2026-11-07T13:23:51Z",
+  "version": "0.3.45",
+  "notes": "\u2022 Delete an entry: the pencil on an entry now has Delete. It asks first, and it can't touch a submitted week.\n\u2022 My time shows a number when you're behind: workdays in the last two weeks with no client time and less than a full day booked. It turns orange, then red at four, and shows on the app icon too.\n\u2022 Easter eggs!",
+  "pub_date": "2026-11-09T21:05:05Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFZtK3BIKzN2WjVGbnhKWEVrTFRPalJQYWpWdFFML0ZrNTNYbE1SQWdUU2xXaXFVS1krenEyMVh2d21WVGZnemQ3WjV1Sng4blpmdnhFUnl0NXdiaXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDU3ODIzCWZpbGU6VGltZUJvdC1Kci0wLjMuNDQtV2luZG93cy1zZXR1cC5leGUKcWZPRGRsMEFESjNKZ1kzcDZudXVMa0llaEhlSHNvNXFkZHNyZytjc3dZcW5LN2NDbzcxeUpqRDBjTHRSV0tYUlk3Zmk1aEFwcUd3WWlLZEpHeFVaQlE9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.44/TimeBot-Jr-0.3.44-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFZyak9TZWJnNVZiZjFyRzRFc0lwSm1XMVhzYUwwektLb2syZG51SHdWcjhhVHdrRnYzMUdvWU8yUC80YkttUEp1QW5pOXVoQzJTKy9SdVlVQUN5WlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU4Mjk3CWZpbGU6VGltZUJvdC1Kci0wLjMuNDUtV2luZG93cy1zZXR1cC5leGUKdC9oTlY4cHdrOXE3Z0V3VTNVTjM3Q082eDE3ODQ1Q0pEV1AvT3dNc0dGS0lTMkZlMCt0cE1zOWVrSlBtVnFEMXBYbkQ1dGJCeTVuZU5sZnpSc25nQXc9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.45/TimeBot-Jr-0.3.45-Windows-setup.exe"
     }
   }
 }
