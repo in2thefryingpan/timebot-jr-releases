@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.41</title>
+      <pubDate>Mon, 09 Nov 2026 18:53:29 -0500</pubDate>
+      <sparkle:version>202611091851</sparkle:version>
+      <sparkle:shortVersionString>0.3.41</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>You can now start a new ticket right from Add time in My time. Pick New ticket in the switch at the top, or click &quot;Not in the list? Make a new ticket&quot; under the ticket list, and its time goes on the same day.</li><li>Time you&#x27;ve booked ahead, like PTO, now shows on the My time calendar with its hours.</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.41-202611091851/TimeBot-Jr-0.3.41.zip" type="application/octet-stream" sparkle:edSignature="OiARsqeqGZuvF0G1EzCmZqb2ljs9C5PwGjRKGSqj8bob5NxxllptrbKD008+T4gtTAOftgoXiUvY8dRftWtMAg==" length="7110963" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.40</title>
       <pubDate>Mon, 09 Nov 2026 16:07:06 -0500</pubDate>
       <sparkle:version>202611091604</sparkle:version>
