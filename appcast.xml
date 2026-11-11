@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.47</title>
+      <pubDate>Wed, 11 Nov 2026 15:36:20 -0500</pubDate>
+      <sparkle:version>202611111533</sparkle:version>
+      <sparkle:shortVersionString>0.3.47</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Marina can now open Billing. It sits under Support, next to Support desk and Quotes, for the managers and Marina.</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.47-202611111533/TimeBot-Jr-0.3.47.zip" type="application/octet-stream" sparkle:edSignature="GyzKrVwkdd74bNCxB0KsAu53eCvvs8IyrLAtce4gdTZbJZOpRuxBDvFRdiUOxl6KlD4Pw2SRePdXm4AaOL5RDQ==" length="7616428" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.46</title>
       <pubDate>Wed, 11 Nov 2026 14:38:45 -0500</pubDate>
       <sparkle:version>202611111436</sparkle:version>
