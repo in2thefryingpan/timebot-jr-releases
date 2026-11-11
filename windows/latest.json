@@ -1,11 +1,11 @@
 {
-  "version": "0.3.50",
-  "notes": "The date on each ticket in My tickets now says Created instead of Opened, and the sort is called Date created to match.",
-  "pub_date": "2026-11-11T19:32:36Z",
+  "version": "0.3.51",
+  "notes": "Hovering a ticket in My tickets now shows its created, updated and last booked dates right away, in place, instead of a slow tooltip with the whole note.",
+  "pub_date": "2026-11-11T19:42:11Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGRCZVZBSzQ1bjR1dTdYcmY5NHdkVktRM0sraEV6Qm11OWhxckpHYWpJVVdWMzlmL1JzTzhLaVE0Wnl3TFBTbUxya0tuUmFxbTVJOC95NEtwTGliOUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDI1NTQ5CWZpbGU6VGltZUJvdC1Kci0wLjMuNTAtV2luZG93cy1zZXR1cC5leGUKUmxySkdranBtV3JPdll1M1lINVRHeXc2cVlRNysyNjhjZ1FIY2FzYU16MUtPbS9DVUhmazgrbUlYb3k4dlVXNTkwTUh1RkttRTAwYndUV0wyUGpwQkE9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.50/TimeBot-Jr-0.3.50-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGU2bEJGZ3NIQlhzWWh2NngrRG1ZbGJIaWdYeUUzNFNMazFVb216VXpoTUw3RnlMRmQ4bVFidFpmTEE1TG1WS0RyK3hRZFBkUXBReC9aQk9wREk5eVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDI2MTI0CWZpbGU6VGltZUJvdC1Kci0wLjMuNTEtV2luZG93cy1zZXR1cC5leGUKRTFQbmxyMjdUNTNYNGE3dThJQmVoTnVCTXRnMDNxVnd4dEM0VTFuRHpZMGJOR2ltdTJET3c3aEN0enMrRVZPU1JxRU9YemlOUG5MZXVONk1nQitnQlE9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.51/TimeBot-Jr-0.3.51-Windows-setup.exe"
     }
   }
 }
