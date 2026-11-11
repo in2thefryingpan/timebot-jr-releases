@@ -1,11 +1,11 @@
 {
-  "version": "0.3.46",
-  "notes": "\u2022 You can now start a new ticket right from Add time in My time. Pick New ticket in the switch at the top, or click \"Not in the list? Make a new ticket\" under the ticket list, and its time goes on the same day.\n\u2022 Time you've booked ahead, like PTO, now shows on the My time calendar with its hours.\n\u2022 You can now log time on a ticket from My time on any day. Click Add, choose Time on a ticket, and pick the ticket, and its Log time opens already set to the day you're looking at.\n\u2022 Internal time and New ticket in My time's Add menu now book on the day you're looking at, not always today.",
-  "pub_date": "2026-11-09T23:57:13Z",
+  "version": "0.3.47",
+  "notes": "\u2022 A ticket now shows its description right under the title, so you can see what it's about without scrolling. Notes read as plain text, and the \"Assigned\" lines are gone.\n\u2022 My time is now two columns. The calendar and your day stay on the left, and the form or ticket you open shows on the right.\n\u2022 Days in the future only take PTO now.\n\u2022 Every screen now says \"Book time\", where it used to be a mix of Log time, Add time and Save time.\n\u2022 Support desk folds repeat emails and alerts from the same client into one row with a count. You can pick the whole group at once to close or assign it.\n\u2022 Tickets you've picked in a list stay picked when you open one and come back. While anything is picked, a click picks or unpicks, and a double-click opens.\n\u2022 Merging tickets keeps you on the list and tells you what merged into what.\n\u2022 Sort in My tickets has a direction button, and it remembers your choice.\n\u2022 A ticket opened beside a list has a clear Close button, and Esc closes it too.\n\u2022 Sign out now asks first if you have a timer running or time waiting to send.\n\u2022 Several fixes make sure time is never booked twice and never lands in the future.",
+  "pub_date": "2026-11-11T02:42:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFgrdWNGN3V5aDVwcGhveExIYWZHYll0THVxOVJDQkVZYjRFZW4zdXA5UDVNcEVlYVlxZG9hZHhmWUFwYlJqb2VvdzRpOGUwR1IyU2ZSTktibnJPUGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjY4NjI2CWZpbGU6VGltZUJvdC1Kci0wLjMuNDYtV2luZG93cy1zZXR1cC5leGUKaHVjc3V0R2w5K3FjV1JDQ2ZJM1FWc1NYc1A3ekJOMFJQbTA4emVncmRXM2M1RUE3YXp0TnAyQ1Ria2RwNXBoWlZiakFlYmM0dHZLcnpnSVRZVVpnQnc9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.46/TimeBot-Jr-0.3.46-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGRCVDdBMlJObFpVNXBoRzNrZm1qeHdBMDZPamxYZ1VTWHpSdnVma1JtSCtmdmg3QmhxQTh4L2pQSzlvOFdITDJ0Ymo0c3U4NGgvbUYybUJaanpoVEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzY0OTEzCWZpbGU6VGltZUJvdC1Kci0wLjMuNDctV2luZG93cy1zZXR1cC5leGUKOVhDU2NqNTJGdEREZ2VnWllDcThqZ0ZyRFR3bFVxYml4K2xRbkU1RlBoQWVyRWpQU2Q0R05rak9jSlh2OU9WYmo2d055Sm14bldiVFo5RjFlKy9GREE9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.47/TimeBot-Jr-0.3.47-Windows-setup.exe"
     }
   }
 }
