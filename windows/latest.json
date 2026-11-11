@@ -1,11 +1,11 @@
 {
-  "version": "0.3.49",
-  "notes": "Each ticket in My tickets now shows a date. By default it's the last day you booked time on it, so it's easier to match tickets to the days you worked them. Sort by Last updated or Date opened and the date follows along. Hover a ticket to see all three dates.",
-  "pub_date": "2026-11-11T19:26:18Z",
+  "version": "0.3.50",
+  "notes": "The date on each ticket in My tickets now says Created instead of Opened, and the sort is called Date created to match.",
+  "pub_date": "2026-11-11T19:32:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGE0N3hnSDg5OUg5bnRmL2kxVXFpMldKOWxNSjBZR2JGS3k2L3AyMGwwbnJ4bk44TjJFd1NsWlZ4OWhHNnZ4VkVCYnJxWnFqUW5TNy9lVUJDNUQ1YlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDI1MTcxCWZpbGU6VGltZUJvdC1Kci0wLjMuNDktV2luZG93cy1zZXR1cC5leGUKRlpHQURST3hmSGp5QXVndkVVRWU0aEoxNHNpR2RDY2w1cHhvVVhKUHgrOEh5RjRScllxRDhZS3JDSTRMOGI1elU2STU5ZUZzTldyakhMenVCMkhIQUE9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.49/TimeBot-Jr-0.3.49-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGRCZVZBSzQ1bjR1dTdYcmY5NHdkVktRM0sraEV6Qm11OWhxckpHYWpJVVdWMzlmL1JzTzhLaVE0Wnl3TFBTbUxya0tuUmFxbTVJOC95NEtwTGliOUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDI1NTQ5CWZpbGU6VGltZUJvdC1Kci0wLjMuNTAtV2luZG93cy1zZXR1cC5leGUKUmxySkdranBtV3JPdll1M1lINVRHeXc2cVlRNysyNjhjZ1FIY2FzYU16MUtPbS9DVUhmazgrbUlYb3k4dlVXNTkwTUh1RkttRTAwYndUV0wyUGpwQkE9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.50/TimeBot-Jr-0.3.50-Windows-setup.exe"
     }
   }
 }
