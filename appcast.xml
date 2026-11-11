@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.46</title>
+      <pubDate>Wed, 11 Nov 2026 14:38:45 -0500</pubDate>
+      <sparkle:version>202611111436</sparkle:version>
+      <sparkle:shortVersionString>0.3.46</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Hovering a ticket in My tickets now shows its created, updated and last booked dates right away, in place, instead of a slow tooltip with the whole note.</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.46-202611111436/TimeBot-Jr-0.3.46.zip" type="application/octet-stream" sparkle:edSignature="rwivL3+EzjmvfZIAFEToX6DKvO4nRjmKGYd15bGrCt/JJUqJtoRC8m5qLRb+sBSGER56zncB8EQPYLCoSD2MBw==" length="7615270" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.45</title>
       <pubDate>Wed, 11 Nov 2026 14:29:07 -0500</pubDate>
       <sparkle:version>202611111426</sparkle:version>
