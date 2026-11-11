@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.43</title>
+      <pubDate>Tue, 10 Nov 2026 22:12:38 -0500</pubDate>
+      <sparkle:version>202611102210</sparkle:version>
+      <sparkle:shortVersionString>0.3.43</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Booking time is faster. The app now says &quot;Saved&quot; as soon as ConnectWise accepts your entry, instead of waiting for your whole list to reload first. Closing, re-opening, assigning and merging tickets are faster the same way.</li><li>Opening a ticket is quicker, because the app reads everything the page needs at the same time.</li><li>The app starts up faster and stays snappier while it loads. The note line under each ticket in My tickets is now remembered between launches instead of being read again every time.</li><li>Every section now lines up at the top, and All tickets and Settings have titles like the rest. In My time, the Week and Month switch sits on the week row.</li><li>The last &quot;Save&quot; button in My time now says &quot;Book time&quot;, like everywhere else.</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.43-202611102210/TimeBot-Jr-0.3.43.zip" type="application/octet-stream" sparkle:edSignature="1jLhS17jEoRbHMaYiE2eHcGwUq/QqxXcdE1yKuAE5Tzzptorv29TmHIfLAgaJKoAh1b+GZm4kxfhuZCpkX2aBA==" length="7596001" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.42</title>
       <pubDate>Tue, 10 Nov 2026 21:44:17 -0500</pubDate>
       <sparkle:version>202611102141</sparkle:version>
