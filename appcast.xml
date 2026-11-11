@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.45</title>
+      <pubDate>Wed, 11 Nov 2026 14:29:07 -0500</pubDate>
+      <sparkle:version>202611111426</sparkle:version>
+      <sparkle:shortVersionString>0.3.45</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The date on each ticket in My tickets now says Created instead of Opened, and the sort is called Date created to match.</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.45-202611111426/TimeBot-Jr-0.3.45.zip" type="application/octet-stream" sparkle:edSignature="lhKRr3A7L+AyRnQARugUY1OTZX1XF3q8214vnQYNL6lGiZHdp1rkvA+8T3o02jGDEeRNxpRq/dNNGBNtk8sTAQ==" length="7616194" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.44</title>
       <pubDate>Wed, 11 Nov 2026 14:22:05 -0500</pubDate>
       <sparkle:version>202611111419</sparkle:version>
