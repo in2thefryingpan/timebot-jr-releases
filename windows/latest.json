@@ -1,11 +1,11 @@
 {
-  "version": "0.3.48",
-  "notes": "\u2022 Booking time is faster. The app now says \"Saved\" as soon as ConnectWise accepts your entry, instead of waiting for your whole list to reload first. Closing, re-opening, assigning and merging tickets are faster the same way.\n\u2022 Opening a ticket is quicker, because the app reads everything the page needs at the same time.\n\u2022 The app starts up faster and stays snappier while it loads. The note line under each ticket in My tickets is now remembered between launches instead of being read again every time.\n\u2022 Every section now lines up at the top, and All tickets and Settings have titles like the rest. In My time, the Week and Month switch sits on the week row.\n\u2022 The last \"Save\" button in My time now says \"Book time\", like everywhere else.",
-  "pub_date": "2026-11-11T03:15:37Z",
+  "version": "0.3.49",
+  "notes": "Each ticket in My tickets now shows a date. By default it's the last day you booked time on it, so it's easier to match tickets to the days you worked them. Sort by Last updated or Date opened and the date follows along. Hover a ticket to see all three dates.",
+  "pub_date": "2026-11-11T19:26:18Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFFsRXBmd3N5c1daeDdadjBSMlBOZmgrSTVSRThBaU5JTU5uaEZlQ3phM0xWVUhDUVNKMjVzMTFJcmtNYWdkS000TnRlc0hKRXpiQ2dyYmhLZG1SYkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzY2OTI5CWZpbGU6VGltZUJvdC1Kci0wLjMuNDgtV2luZG93cy1zZXR1cC5leGUKVFlKbzJzTjFJVlFXaHlYQkxkUnl5T0xwOS9mS2tybW1jSGxIczcvczNZZTdQNWNtMkx0eVR5TXZja00yT2k3T2F4bTFhRXNkSnRZTjRLeThid2FkQ2c9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.48/TimeBot-Jr-0.3.48-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGE0N3hnSDg5OUg5bnRmL2kxVXFpMldKOWxNSjBZR2JGS3k2L3AyMGwwbnJ4bk44TjJFd1NsWlZ4OWhHNnZ4VkVCYnJxWnFqUW5TNy9lVUJDNUQ1YlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDI1MTcxCWZpbGU6VGltZUJvdC1Kci0wLjMuNDktV2luZG93cy1zZXR1cC5leGUKRlpHQURST3hmSGp5QXVndkVVRWU0aEoxNHNpR2RDY2w1cHhvVVhKUHgrOEh5RjRScllxRDhZS3JDSTRMOGI1elU2STU5ZUZzTldyakhMenVCMkhIQUE9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.49/TimeBot-Jr-0.3.49-Windows-setup.exe"
     }
   }
 }
