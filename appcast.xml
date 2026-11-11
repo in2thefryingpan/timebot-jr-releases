@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.42</title>
+      <pubDate>Tue, 10 Nov 2026 21:44:17 -0500</pubDate>
+      <sparkle:version>202611102141</sparkle:version>
+      <sparkle:shortVersionString>0.3.42</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>A ticket now shows its description right under the title, so you can see what it&#x27;s about without scrolling. Notes read as plain text, and the &quot;Assigned&quot; lines are gone.</li><li>My time is now two columns. The calendar and your day stay on the left, and the form or ticket you open shows on the right.</li><li>Days in the future only take PTO now.</li><li>Every screen now says &quot;Book time&quot;, where it used to be a mix of Log time, Add time and Save time.</li><li>Support desk folds repeat emails and alerts from the same client into one row with a count. You can pick the whole group at once to close or assign it.</li><li>Tickets you&#x27;ve picked in a list stay picked when you open one and come back. While anything is picked, a click picks or unpicks, and a double-click opens.</li><li>Merging tickets keeps you on the list and tells you what merged into what.</li><li>Sort in My tickets has a direction button, and it remembers your choice.</li><li>A ticket opened beside a list has a clear Close button, and Esc closes it too.</li><li>Sign out now asks first if you have a timer running or time waiting to send.</li><li>Several fixes make sure time is never booked twice and never lands in the future.</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.42-202611102141/TimeBot-Jr-0.3.42.zip" type="application/octet-stream" sparkle:edSignature="VPUJe5BbgAcodAQi3Xnehm9OvRCZcn1Z2XGDToX9tUszb+pAUElL+ji/FvbqZWn/g50UtxvRoOLcUIRM6zaLAA==" length="7538777" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.41</title>
       <pubDate>Mon, 09 Nov 2026 18:53:29 -0500</pubDate>
       <sparkle:version>202611091851</sparkle:version>
