@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.48</title>
+      <pubDate>Thu, 12 Nov 2026 15:32:08 -0500</pubDate>
+      <sparkle:version>202611121529</sparkle:version>
+      <sparkle:shortVersionString>0.3.48</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>In To review, every entry now has a circle you can click to pick it, and Select all picks everything in the list so you can untick the few you want to leave. The Mark reviewed bar is now at the top.</li><li>In Support desk, one click opens a ticket beside the list.</li><li>Assign is now a button at the top of a ticket. The More and Less link on a long description now sits above the text.</li><li>My time shows Saturday and Sunday when you have time on them, and counts those hours in your week. The month view now shows non-billable hours too, and the calendar uses more of the window.</li><li>Search understands more. Type several words and they all have to match, in any order. Type &quot;or&quot; between words when either will do, and put quotes around words that belong together.</li><li>Text size now goes up to 180%.</li><li>Cleanup now explains that Keep hides a ticket from the list for 30 days and changes nothing in ConnectWise.</li><li>Each row in My tickets shows a date that follows the sort you picked.</li><li>Marina now sees Billing.</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.48-202611121529/TimeBot-Jr-0.3.48.zip" type="application/octet-stream" sparkle:edSignature="siedBGlbj4QGcr3nYYRobDJKkMZZ99MiZve9uep5c1xwvV55ooBC0OhZus2orMT7jxWpyNEe11RyrJcAEBeuDw==" length="7697168" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.47</title>
       <pubDate>Wed, 11 Nov 2026 15:36:20 -0500</pubDate>
       <sparkle:version>202611111533</sparkle:version>
