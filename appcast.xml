@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.50</title>
+      <pubDate>Thu, 12 Nov 2026 16:22:29 -0500</pubDate>
+      <sparkle:version>202611121620</sparkle:version>
+      <sparkle:shortVersionString>0.3.50</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>You can now book time with a start and end time instead of hours. Turn on Book with start and end times in Settings, under Your day. It&#x27;s off unless you turn it on.</li><li>With it on, Book time asks when you started and finished, and for any break. For example, 9:00 to 12:30 less a 30 minute break books 3 hours, and ConnectWise shows those times with the break taken off.</li><li>When you stop the timer, it fills in the start and end times for you.</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.50-202611121620/TimeBot-Jr-0.3.50.zip" type="application/octet-stream" sparkle:edSignature="xJtnmv0z5yxwm3P0TBQbzGjoH6HsoL0dW4HyaoruzyjrN2Ykw5GfwacTPDhEBAU9Zt53NNVPdMrkEEf/xYbmDw==" length="7725576" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.49</title>
       <pubDate>Thu, 12 Nov 2026 16:08:02 -0500</pubDate>
       <sparkle:version>202611121605</sparkle:version>
