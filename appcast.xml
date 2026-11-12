@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.49</title>
+      <pubDate>Thu, 12 Nov 2026 16:08:02 -0500</pubDate>
+      <sparkle:version>202611121605</sparkle:version>
+      <sparkle:shortVersionString>0.3.49</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>You can book time on a weekend again. Saturday and Sunday are always on the My time calendar now, and the day pickers no longer grey them out.</li><li>Booking time looks the same everywhere. On a ticket, in My time, in New ticket and when editing an entry, it&#x27;s hours, then work type and billing, then the note.</li><li>The note box starts four lines tall and grows as you type, so a longer note is no longer cut off.</li><li>The small grey text is darker and a little bigger, so it&#x27;s easier to read.</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.49-202611121605/TimeBot-Jr-0.3.49.zip" type="application/octet-stream" sparkle:edSignature="tC7nTB0HsPMmtCfrWX9KzcucVPfxrOiIRLaH4Vb8isQk1y5Garl9WAFulj7w8u14kRptz1ORO+0kyd8NtcFUAw==" length="7726186" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.48</title>
       <pubDate>Thu, 12 Nov 2026 15:32:08 -0500</pubDate>
       <sparkle:version>202611121529</sparkle:version>
