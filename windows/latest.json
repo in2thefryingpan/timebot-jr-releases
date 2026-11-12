@@ -1,11 +1,11 @@
 {
-  "version": "0.3.57",
-  "notes": "\u2022 For managers: To review now has an Internal view next to Tickets, so internal time like Admin and PTO can be reviewed too.\n\u2022 For managers: If client work was booked to an internal code, To review flags it and asks whether it should be on a ticket.\n\u2022 For managers: Turn on Older in To review to see anything still waiting from before the last 90 days.",
-  "pub_date": "2026-11-12T21:46:24Z",
+  "version": "0.3.58",
+  "notes": "The hours box on Internal time now starts empty, so you always pick the amount yourself.",
+  "pub_date": "2026-11-12T22:01:35Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGZSTEtkeVBnaFlESDQ0ODgyKzV2RkZJSEZRQXJ2dHlNN3dpSnFORnRQalJmU2lycGk2cEdtL1VlL2xtQVIvNk1pdEpBU0RjV3Vpci9JMjYwdnYyYXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTE5OTc3CWZpbGU6VGltZUJvdC1Kci0wLjMuNTctV2luZG93cy1zZXR1cC5leGUKMFpjZW5waTZIU1RnYUFzM2tEZlFJOFBST0VLNk5Ld1VraE1ZdktJZ3d4R1l4U1VKd3FHS25jKzB6bmlyVFdTUnVtcjFhaDJneWVQSjNEbUwrV0E4Q2c9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.57/TimeBot-Jr-0.3.57-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGRtcnM5MXdxZm5WL29NM2E0RlY1K0V3MVorTGlKTHpnMlpmY284TS83NHlFOVZjVitya0dFL2NqRjR6YmJhUXk5SjRNSlJZL2xiTWI3ZUNWL2djcUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTIwODg4CWZpbGU6VGltZUJvdC1Kci0wLjMuNTgtV2luZG93cy1zZXR1cC5leGUKZ24vUURVMnc1WWx0MXpTN3FId1ZmWG40T1RSY1ZBREIvcXVtdkk1dDhiTFBnL09OemgvV01YcEVwU0ZXcTMyemdDWFZad2VhVUNmUkZjOEwvN3hyQlE9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.58/TimeBot-Jr-0.3.58-Windows-setup.exe"
     }
   }
 }
