@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.52</title>
+      <pubDate>Thu, 12 Nov 2026 16:42:08 -0500</pubDate>
+      <sparkle:version>202611121639</sparkle:version>
+      <sparkle:shortVersionString>0.3.52</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>For managers: To review now has an Internal view next to Tickets, so internal time like Admin and PTO can be reviewed too.</li><li>For managers: If client work was booked to an internal code, To review flags it and asks whether it should be on a ticket.</li><li>For managers: Turn on Older in To review to see anything still waiting from before the last 90 days.</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.52-202611121639/TimeBot-Jr-0.3.52.zip" type="application/octet-stream" sparkle:edSignature="8JeHP2ZTidgthKelSB7qwEFB3m+o1yHcJERA7sdYh8hmUa3GvdYrTEBX23I3KKfHfoXwulkFfwy52NjOf8gPAQ==" length="7760683" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.51</title>
       <pubDate>Thu, 12 Nov 2026 16:30:53 -0500</pubDate>
       <sparkle:version>202611121628</sparkle:version>
