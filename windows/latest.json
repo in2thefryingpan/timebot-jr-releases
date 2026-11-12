@@ -1,11 +1,11 @@
 {
-  "version": "0.3.56",
-  "notes": "\u2022 Start and end times are now a choice on each entry instead of a setting. Click Set times next to Hours on Book time to give when you started and finished, and any break. Click Just hours to go back.\n\u2022 Book time still starts with hours every time.",
-  "pub_date": "2026-11-12T21:33:41Z",
+  "version": "0.3.57",
+  "notes": "\u2022 For managers: To review now has an Internal view next to Tickets, so internal time like Admin and PTO can be reviewed too.\n\u2022 For managers: If client work was booked to an internal code, To review flags it and asks whether it should be on a ticket.\n\u2022 For managers: Turn on Older in To review to see anything still waiting from before the last 90 days.",
+  "pub_date": "2026-11-12T21:46:24Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGRaUXBIUzQ2ZVlRajhrYWxQNGpLNDFROVZuRjZRbTMwS1RZLzZEVjRGL0dkcW1BZHM5elU2V3Z2cHVSVml3QWkwaGVzTjBPRWJvOVRrZk0rV2o5clE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTE5MjEzCWZpbGU6VGltZUJvdC1Kci0wLjMuNTYtV2luZG93cy1zZXR1cC5leGUKNGdUeHJqWjRGV2t3UnFoZlpMMWwwS2tPa1lBOXVwWWExemlWQzZ1UjMyYUxyQkZ4QXV5N0kxVUFZV1FwVk1KMGQyTWwxMXdMMTkwWWtLUDB0bkk5Q3c9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.56/TimeBot-Jr-0.3.56-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGZSTEtkeVBnaFlESDQ0ODgyKzV2RkZJSEZRQXJ2dHlNN3dpSnFORnRQalJmU2lycGk2cEdtL1VlL2xtQVIvNk1pdEpBU0RjV3Vpci9JMjYwdnYyYXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTE5OTc3CWZpbGU6VGltZUJvdC1Kci0wLjMuNTctV2luZG93cy1zZXR1cC5leGUKMFpjZW5waTZIU1RnYUFzM2tEZlFJOFBST0VLNk5Ld1VraE1ZdktJZ3d4R1l4U1VKd3FHS25jKzB6bmlyVFdTUnVtcjFhaDJneWVQSjNEbUwrV0E4Q2c9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.57/TimeBot-Jr-0.3.57-Windows-setup.exe"
     }
   }
 }
