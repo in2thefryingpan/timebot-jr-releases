@@ -1,11 +1,11 @@
 {
-  "version": "0.3.55",
-  "notes": "\u2022 You can now book time with a start and end time instead of hours. Turn on Book with start and end times in Settings. It's off unless you turn it on.\n\u2022 With it on, Book time asks when you started and finished, and for any break. For example, 9:00 to 12:30 less a 30 minute break books 3 hours, and ConnectWise shows those times with the break taken off.\n\u2022 When you stop the timer, it fills in the start and end times for you.",
-  "pub_date": "2026-11-12T21:25:57Z",
+  "version": "0.3.56",
+  "notes": "\u2022 Start and end times are now a choice on each entry instead of a setting. Click Set times next to Hours on Book time to give when you started and finished, and any break. Click Just hours to go back.\n\u2022 Book time still starts with hours every time.",
+  "pub_date": "2026-11-12T21:33:41Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGZvRCt0TWc3VlArUlRqMGhhOUQyY3hZTGxlYVlnbXkwNEgwQXRKTGpsOE5HQjhCZjFTUkFNUmJiWmRNd3luMnd1SDFtSnNodXd1cEtRQXNoSWNwM3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTE4NzUwCWZpbGU6VGltZUJvdC1Kci0wLjMuNTUtV2luZG93cy1zZXR1cC5leGUKSG05K2tiRWc1NXB0L1JsM3dmK053c1lIajgrakxuK3RDQWpkc2oxMVdHRHVJMi9pMmpIaWZQZmVFNnVRdTJEaDNORll0V1VpYXJpckRxWS81K1RJQ1E9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.55/TimeBot-Jr-0.3.55-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGRaUXBIUzQ2ZVlRajhrYWxQNGpLNDFROVZuRjZRbTMwS1RZLzZEVjRGL0dkcW1BZHM5elU2V3Z2cHVSVml3QWkwaGVzTjBPRWJvOVRrZk0rV2o5clE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTE5MjEzCWZpbGU6VGltZUJvdC1Kci0wLjMuNTYtV2luZG93cy1zZXR1cC5leGUKNGdUeHJqWjRGV2t3UnFoZlpMMWwwS2tPa1lBOXVwWWExemlWQzZ1UjMyYUxyQkZ4QXV5N0kxVUFZV1FwVk1KMGQyTWwxMXdMMTkwWWtLUDB0bkk5Q3c9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.56/TimeBot-Jr-0.3.56-Windows-setup.exe"
     }
   }
 }
