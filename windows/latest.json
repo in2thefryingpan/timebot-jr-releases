@@ -1,11 +1,11 @@
 {
-  "version": "0.3.53",
-  "notes": "\u2022 In To review, every entry now has a circle you can click to pick it, and Select all picks everything in the list so you can untick the few you want to leave. The Mark reviewed bar is now at the top.\n\u2022 In Support desk, one click opens a ticket beside the list.\n\u2022 Assign is now a button at the top of a ticket. The More and Less link on a long description now sits above the text.\n\u2022 My time shows Saturday and Sunday when you have time on them, and counts those hours in your week. The month view now shows billable and non-billable hours too.\n\u2022 Search understands more. Type several words and they all have to match, in any order. Type \"or\" between words when either will do, and put quotes around words that belong together.\n\u2022 Cleanup now explains that Keep hides a ticket from the list for 30 days and changes nothing in ConnectWise.\n\u2022 Each row in My tickets shows a date that follows the sort you picked.\n\u2022 Marina now sees Billing.",
-  "pub_date": "2026-11-12T20:44:23Z",
+  "version": "0.3.54",
+  "notes": "\u2022 You can book time on a weekend again. Saturday and Sunday are always on the My time calendar now.\n\u2022 The note box starts four lines tall and grows as you type, so a longer note is no longer cut off. Internal time gets the same box.\n\u2022 The small grey text is darker and a little bigger, so it's easier to read.",
+  "pub_date": "2026-11-12T21:11:31Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFN0S2ZCYWJrK3VlR2pIelVJS3N5K1VPdGduSnJNbTI2bHY1aW1VS1BnQjVuVk1JUFFFNjQ0eTZXUXpiUlM5ZDVZRWE4WDZJZ0U4S0lKNS9GMmR0dkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTE2MjU2CWZpbGU6VGltZUJvdC1Kci0wLjMuNTMtV2luZG93cy1zZXR1cC5leGUKSnRCNExwd3pOMkxXekptL0NvZXIrbHRVVlVDMmFJM0FMcyt1V3c2b00vTjluczNhSDIzcDJLcUV2VFp5RGJGZHhJSEJTTFEyUHhBTkJDQVF6eEIyQXc9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.53/TimeBot-Jr-0.3.53-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFpOTUNmUzhGN2YrSmNDc3A3eDlQYnpndW1oeWREbG9lL2xoN3BVbmtVSkN4VEloSDJjb244a0RqR0RGNTJ1U09HQVR1T0hvQTdqSzNTYjdWNlNINndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTE3ODg0CWZpbGU6VGltZUJvdC1Kci0wLjMuNTQtV2luZG93cy1zZXR1cC5leGUKaE9NWGZ5M1VjRHZDcUZ4by9oaWRXRWtiaUlnaXRmVFdWdlRDTU9Za285Qk5kSHA2N3J6U3A4TE03UVJoRHpIQkdNT08xYVFJM21yUE5pTmhENGdpQWc9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.54/TimeBot-Jr-0.3.54-Windows-setup.exe"
     }
   }
 }
