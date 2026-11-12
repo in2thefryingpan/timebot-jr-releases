@@ -1,11 +1,11 @@
 {
-  "version": "0.3.54",
-  "notes": "\u2022 You can book time on a weekend again. Saturday and Sunday are always on the My time calendar now.\n\u2022 The note box starts four lines tall and grows as you type, so a longer note is no longer cut off. Internal time gets the same box.\n\u2022 The small grey text is darker and a little bigger, so it's easier to read.",
-  "pub_date": "2026-11-12T21:11:31Z",
+  "version": "0.3.55",
+  "notes": "\u2022 You can now book time with a start and end time instead of hours. Turn on Book with start and end times in Settings. It's off unless you turn it on.\n\u2022 With it on, Book time asks when you started and finished, and for any break. For example, 9:00 to 12:30 less a 30 minute break books 3 hours, and ConnectWise shows those times with the break taken off.\n\u2022 When you stop the timer, it fills in the start and end times for you.",
+  "pub_date": "2026-11-12T21:25:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFpOTUNmUzhGN2YrSmNDc3A3eDlQYnpndW1oeWREbG9lL2xoN3BVbmtVSkN4VEloSDJjb244a0RqR0RGNTJ1U09HQVR1T0hvQTdqSzNTYjdWNlNINndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTE3ODg0CWZpbGU6VGltZUJvdC1Kci0wLjMuNTQtV2luZG93cy1zZXR1cC5leGUKaE9NWGZ5M1VjRHZDcUZ4by9oaWRXRWtiaUlnaXRmVFdWdlRDTU9Za285Qk5kSHA2N3J6U3A4TE03UVJoRHpIQkdNT08xYVFJM21yUE5pTmhENGdpQWc9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.54/TimeBot-Jr-0.3.54-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGZvRCt0TWc3VlArUlRqMGhhOUQyY3hZTGxlYVlnbXkwNEgwQXRKTGpsOE5HQjhCZjFTUkFNUmJiWmRNd3luMnd1SDFtSnNodXd1cEtRQXNoSWNwM3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTE4NzUwCWZpbGU6VGltZUJvdC1Kci0wLjMuNTUtV2luZG93cy1zZXR1cC5leGUKSG05K2tiRWc1NXB0L1JsM3dmK053c1lIajgrakxuK3RDQWpkc2oxMVdHRHVJMi9pMmpIaWZQZmVFNnVRdTJEaDNORll0V1VpYXJpckRxWS81K1RJQ1E9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.55/TimeBot-Jr-0.3.55-Windows-setup.exe"
     }
   }
 }
