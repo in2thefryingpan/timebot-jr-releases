@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.3.53</title>
+      <pubDate>Thu, 12 Nov 2026 16:58:05 -0500</pubDate>
+      <sparkle:version>202611121655</sparkle:version>
+      <sparkle:shortVersionString>0.3.53</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The hours box on Book time in My time now starts empty, so you always pick the amount yourself.</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.3.53-202611121655/TimeBot-Jr-0.3.53.zip" type="application/octet-stream" sparkle:edSignature="giX7V0saYm5ujgfz2PPCf5xJXV9dmAVaRKsTdJ1U0vp8aLLqM6wDpJirI8jbyPi8O/Yg3xAqtJk/t8Lm44U2Cw==" length="7750024" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.52</title>
       <pubDate>Thu, 12 Nov 2026 16:42:08 -0500</pubDate>
       <sparkle:version>202611121639</sparkle:version>
