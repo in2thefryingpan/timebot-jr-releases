@@ -1,11 +1,11 @@
 {
-  "version": "0.3.58",
-  "notes": "The hours box on Internal time now starts empty, so you always pick the amount yourself.",
-  "pub_date": "2026-11-12T22:01:35Z",
+  "version": "0.4.0",
+  "notes": "\u2022 Press T anywhere in the app to search all tickets, or O to search clients, without leaving what you're on.\n\u2022 Tickets now open beside the list everywhere, and Keep as tab pins one open.\n\u2022 The ticket page reads in the order you use it: the title, then Book time, then the time on the ticket, then notes.\n\u2022 If you cover someone's ticket, Time on this ticket now shows everyone's work on it, with the exact total.\n\u2022 My time has one Add button at the top, next to the new Weekends switch, which shows Saturday and Sunday when you want them.\n\u2022 The arrow keys and Return now work in My tickets and Clients, and Settings lists every keyboard shortcut.\n\u2022 On Windows, the Mac's shortcuts now work with Ctrl: Ctrl+F for All tickets, Ctrl+W to close a tab, and Ctrl+1 to 9 for the sidebar.\n\u2022 Every screen now says what it's for, and empty screens say what to do next.\n\u2022 Lists and toolbars stay readable when the window is narrow or the text is large.",
+  "pub_date": "2026-11-13T18:28:54Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGRtcnM5MXdxZm5WL29NM2E0RlY1K0V3MVorTGlKTHpnMlpmY284TS83NHlFOVZjVitya0dFL2NqRjR6YmJhUXk5SjRNSlJZL2xiTWI3ZUNWL2djcUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTIwODg4CWZpbGU6VGltZUJvdC1Kci0wLjMuNTgtV2luZG93cy1zZXR1cC5leGUKZ24vUURVMnc1WWx0MXpTN3FId1ZmWG40T1RSY1ZBREIvcXVtdkk1dDhiTFBnL09OemgvV01YcEVwU0ZXcTMyemdDWFZad2VhVUNmUkZjOEwvN3hyQlE9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.3.58/TimeBot-Jr-0.3.58-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFNPc3NTZ0VtMGZNS25GdzkxWVZteW1DWHY4UDBYVEkyY21YMzFOdkJFbmF3aFFtVUZmMFJ6c1hMMVZERE1ZTUZHVGhMSkJPbGUyVzF0SXhJMDZTVkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTk0NTI3CWZpbGU6VGltZUJvdC1Kci0wLjQuMC1XaW5kb3dzLXNldHVwLmV4ZQp5WVJvckFiQUN1Vlc0VnRkUVRtM1VWT2YzM1lic2NSS0wvOWZ6WlF6UlFtbnI1dkU4b25EVm9PY0ROb3U1bi9UQlB5Wml6TWc4bi9CNXN6S2JYc3NCQT09Cg==",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.4.0/TimeBot-Jr-0.4.0-Windows-setup.exe"
     }
   }
 }
