@@ -1,11 +1,11 @@
 {
-  "version": "0.4.3",
-  "notes": "For managers: in To review, Expand all now opens every entry so you can fix and review each one, Set times lets you change when the work started and stopped, and each entry shows its agreement.",
-  "pub_date": "2026-11-13T19:50:49Z",
+  "version": "0.4.4",
+  "notes": "Tickets on a multi-site agreement now show which site, right after the client's name.",
+  "pub_date": "2026-11-13T20:52:19Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFh6ZlROdExjeVNUd3Vlc0ZjQXZpdE5ZSGNqWkN4cC9HbUMvQUhUM3FRNC9CemxtTm5ha3ljclZxeDJ6d2FyQkFyYTltSkt1dWpiMkE0ZjVVL3M5WUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTk5NDQzCWZpbGU6VGltZUJvdC1Kci0wLjQuMy1XaW5kb3dzLXNldHVwLmV4ZQpCdmhSYUsvWUZjZnBjYkFvbnZ6SFNzdHQrWjZXRkRGenVQVDczbHhBT21NM2srZ2xNZHdOUWgxVEN6ZkJrNUp6NS83STArbmVvOG9vSDBqRXdkM1pBdz09Cg==",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.4.3/TimeBot-Jr-0.4.3-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGRua2FNcWlHU1UyUUxtbUM5dm42a0R3THRBYVlNdG53Q01waTRJUlBrU0RmajF3N0lQUFVVeitHdzk2WURxNk5xQzdhQTgzQUE5VFlDbFFUY1BEMndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjAzMTMyCWZpbGU6VGltZUJvdC1Kci0wLjQuNC1XaW5kb3dzLXNldHVwLmV4ZQpCN2IyaVFKK0pCUEhCd2tOZDNWQ09naDNzQUZnT250RGhGUGJsenFhelo3NGhvTUdZd3VtTWE5YUhGZjU0MTVwSWpmcElKSzUrZG5TMDNjWkRsTy9BUT09Cg==",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.4.4/TimeBot-Jr-0.4.4-Windows-setup.exe"
     }
   }
 }
