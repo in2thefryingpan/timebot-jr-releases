@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.4.0</title>
+      <pubDate>Fri, 13 Nov 2026 13:31:19 -0500</pubDate>
+      <sparkle:version>202611131328</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Press T anywhere in the app to search all tickets, or O to search clients, without leaving what you&#x27;re on.</li><li>Tickets now open beside the list everywhere, and Keep as tab pins one open.</li><li>The ticket page reads in the order you use it: the title, then Book time, then the time on the ticket, then notes.</li><li>If you cover someone&#x27;s ticket, Time on this ticket now shows everyone&#x27;s work on it, with the exact total.</li><li>My time has one Add button at the top, next to the new Weekends switch, which shows Saturday and Sunday when you want them.</li><li>The arrow keys and Return now work in My tickets and Clients, and Settings lists every keyboard shortcut.</li><li>On Windows, the Mac&#x27;s shortcuts now work with Ctrl: Ctrl+F for All tickets, Ctrl+W to close a tab, and Ctrl+1 to 9 for the sidebar.</li><li>Every screen now says what it&#x27;s for, and empty screens say what to do next.</li><li>Lists and toolbars stay readable when the window is narrow or the text is large.</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.4.0-202611131328/TimeBot-Jr-0.4.0.zip" type="application/octet-stream" sparkle:edSignature="mQFvX5Uf/jOllhIOXU67L78XSttgbMRghW9w+/iQer73yzczAGROBpJIK9VtCwhR8setCkPzphqYyuVGU/bsCQ==" length="7981389" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.3.53</title>
       <pubDate>Thu, 12 Nov 2026 16:58:05 -0500</pubDate>
       <sparkle:version>202611121655</sparkle:version>
