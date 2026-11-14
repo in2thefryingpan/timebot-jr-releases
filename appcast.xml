@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.4.6</title>
+      <pubDate>Fri, 13 Nov 2026 20:23:12 -0500</pubDate>
+      <sparkle:version>202611132020</sparkle:version>
+      <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>TimeBot Jr. starts faster and asks ConnectWise for less, so My time, To review and Support desk load more quickly.</li><li>When you use Set times, you can now type the break in quarter hours, up to 12 hours, or step it with the minus and plus buttons. It used to stop at 2 hours.</li><li>For clients with a contract for each location, the picker on Book time and New ticket is now called Contract. It lists each contract by place first, like &quot;Faraway Jackson Hole (Support)&quot;.</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.4.6-202611132020/TimeBot-Jr-0.4.6.zip" type="application/octet-stream" sparkle:edSignature="4HQ5Nc4t7J3DDY1u6Uj5jAmBQQTTirqEQxdG2uqfLpXx+bkb14Jx+6QvEaf5bGfi7GR3MloSbciecm/Dhj+9CA==" length="8110146" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.4.5</title>
       <pubDate>Fri, 13 Nov 2026 15:49:37 -0500</pubDate>
       <sparkle:version>202611131547</sparkle:version>
