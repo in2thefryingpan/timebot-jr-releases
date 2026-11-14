@@ -1,11 +1,11 @@
 {
-  "version": "0.4.4",
-  "notes": "Tickets on a multi-site agreement now show which site, right after the client's name.",
-  "pub_date": "2026-11-13T20:52:19Z",
+  "version": "0.4.5",
+  "notes": "\u2022 TimeBot Jr. starts faster and asks ConnectWise for less, so My time, To review and Support desk load more quickly.\n\u2022 When you use Set times, you can now type the break in quarter hours, up to 12 hours, or step it with the minus and plus buttons. It used to stop at 2 hours.\n\u2022 For clients with a contract for each location, the picker on Book time and New ticket is now called Contract. It lists each contract by place first, like \"Faraway Jackson Hole (Support)\".",
+  "pub_date": "2026-11-14T01:28:05Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGRua2FNcWlHU1UyUUxtbUM5dm42a0R3THRBYVlNdG53Q01waTRJUlBrU0RmajF3N0lQUFVVeitHdzk2WURxNk5xQzdhQTgzQUE5VFlDbFFUY1BEMndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjAzMTMyCWZpbGU6VGltZUJvdC1Kci0wLjQuNC1XaW5kb3dzLXNldHVwLmV4ZQpCN2IyaVFKK0pCUEhCd2tOZDNWQ09naDNzQUZnT250RGhGUGJsenFhelo3NGhvTUdZd3VtTWE5YUhGZjU0MTVwSWpmcElKSzUrZG5TMDNjWkRsTy9BUT09Cg==",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.4.4/TimeBot-Jr-0.4.4-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGVZejRFUXhzYUQ4NXJHaDAyQzRUNmU5MUtKeHF2ejQ1dER4NlhhVTg0dXdGWjgyVkluWm96OFlUemR4dUNOYnprMWoydnBoR09WOUM1Wk9ZMEJRTFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjE5NjgxCWZpbGU6VGltZUJvdC1Kci0wLjQuNS1XaW5kb3dzLXNldHVwLmV4ZQo4L1dQZVZJWFRyNzlNSENmMTNSQWxvbVUwbStFRUM2KzBTeDBGN2J4eVdjVnBqWVFOZWtGcmdPTW5WekZhK2ZXdUpvdzhIQ1E4L0dNenpRZVIrdzZCUT09Cg==",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.4.5/TimeBot-Jr-0.4.5-Windows-setup.exe"
     }
   }
 }
