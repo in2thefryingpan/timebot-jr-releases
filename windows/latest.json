@@ -1,11 +1,11 @@
 {
-  "version": "0.4.6",
-  "notes": "\u2022 Restarting the timer on a ticket now carries on from the time you already had, so no part of it gets lost.\n\u2022 Choosing Close on save right after booking time now closes the ticket.\n\u2022 On clients with more than one contract, Book time waits until the contracts have loaded, so time can't go out without one.\n\u2022 With Set times on, the line under Book time now matches the hours shown beside the time boxes.\n\u2022 When something can't load, like Internal time's codes or a search, the app now says so and offers Try again.\n\u2022 Lists keep their place when you open a ticket beside them.\n\u2022 Editing an entry in My time closes the editor right away, and the total catches up a moment later.\n\u2022 A ticket in its own window and the main window now stay in step when you book time or change the status.\n\u2022 At large text sizes the ticket page moves to one column, so nothing is cut off at the right edge.\n\u2022 For managers: Marking a PO line received in Quoting changes just that line, with no full reload.\n\u2022 Easter eggs!",
-  "pub_date": "2026-11-16T18:46:49Z",
+  "version": "0.4.7",
+  "notes": "\u2022 My numbers now follows the week you click in My time, so you can see your numbers for any earlier week.\n\u2022 A week gets a utilization number once it's in, which means 90% of its hours are booked or it's more than four weeks old.\n\u2022 Until a week is in, it says \"in progress\" or \"incomplete\" instead of a percentage.\n\u2022 Unbooked time is its own number now: it adds up the hours missing from the last four weeks and gets redder as it grows.\n\u2022 Time booked to Stenhouse Consulting counts as not billable, and UTO is treated as time off like PTO.\n\u2022 For managers: Team's PTO left column no longer changes between loads.",
+  "pub_date": "2026-11-16T21:32:14Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFdEODMvRkFqWVNSbUVIUFNLM3BMRmxhRzB0cG05ZUpJenlldkZUQkk4dUZ3SDFNVzB6dU1vZHNWbTA5cVNKUjRJMGJOM2ZnZnVKNXI0ZlNjMDVOUHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODU0ODA1CWZpbGU6VGltZUJvdC1Kci0wLjQuNi1XaW5kb3dzLXNldHVwLmV4ZQpTR3FrSmhHL1pnYS80bFZjRkJuMHJ0aTZuSTlicXMzSG9WOUkrZ1F0M0c5ckJoUDM4RVIybXRoeHFESThYOS9OWGExMmF1T1M4NnVWbkJkckpMZWhCZz09Cg==",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.4.6/TimeBot-Jr-0.4.6-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFgyRDZEZmJjOFpzZjEyMEkrRkdtd0VXWFFVZTVTZDhuRTh3WE4vTUZLVjRwMXdJM0ZQKzJ4SURCQ0hYaFVrRzdxMnMwSlNUNkhWNW0wVXRMbmZmTndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODY0NzI5CWZpbGU6VGltZUJvdC1Kci0wLjQuNy1XaW5kb3dzLXNldHVwLmV4ZQowRjQxSnk5WjVScGJxZmprMHlsK2VxelAwdkw2ZTAySklvWG15T0dYbmk0WEVKeDJ2STNVY3B5cHJXam5oM1cvU3FKdlppd3B2M3drZDRYU3BZK0JEUT09Cg==",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.4.7/TimeBot-Jr-0.4.7-Windows-setup.exe"
     }
   }
 }
