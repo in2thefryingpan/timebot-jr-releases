@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.4.10</title>
+      <pubDate>Mon, 16 Nov 2026 18:54:54 -0500</pubDate>
+      <sparkle:version>202611161852</sparkle:version>
+      <sparkle:shortVersionString>0.4.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>My tickets is now called Tickets, and Search finds any ticket, open or closed, along with clients, contacts and, if you use Quoting or Billing, quotes and invoices.</li><li>Press T anywhere to search tickets, or O to search clients.</li><li>Search remembers the tickets and clients you opened recently, and you can save a search as a list to come back to.</li><li>You can now split one booking into a billable part and a part that isn&#x27;t, with the Split link next to the billing choice.</li><li>If a week&#x27;s timesheet is already submitted in ConnectWise, the app now says so instead of failing quietly, and keeps your time so it isn&#x27;t lost.</li><li>My time shows which weeks are submitted.</li><li>Settings and the sign-in screen have a fresh look, and Settings has a new page of tips for getting more out of TimeBot Jr.</li><li>Error messages are easier to read on every theme.</li><li>Moving around the app has a little motion now, so it&#x27;s easier to see where you are, and it stays still if your computer is set to reduce motion.</li><li>Some pages load a bit faster.</li><li>Picking several tickets now offers the same actions in Tickets, Search and Support desk.</li><li>For managers: You can now change an entry in To review even after it&#x27;s marked Ready to bill.</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.4.10-202611161852/TimeBot-Jr-0.4.10.zip" type="application/octet-stream" sparkle:edSignature="XyxBKcXFOVwQtHiUYaGtZgC7kk1aN23TlPemtA/8LsY9YP2vehHH9I2T6SqC4oRYLffM2PdzBjuRX9BBJrVjAA==" length="8810024" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.4.9</title>
       <pubDate>Mon, 16 Nov 2026 16:45:40 -0500</pubDate>
       <sparkle:version>202611161643</sparkle:version>
