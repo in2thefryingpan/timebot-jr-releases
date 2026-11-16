@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.4.8</title>
+      <pubDate>Mon, 16 Nov 2026 16:28:06 -0500</pubDate>
+      <sparkle:version>202611161626</sparkle:version>
+      <sparkle:shortVersionString>0.4.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>My numbers now follows the week you click in My time, so you can see your numbers for any earlier week.</li><li>A week gets a utilization number once it&#x27;s in, which means 90% of its hours are booked or it&#x27;s more than four weeks old.</li><li>Until a week is in, it says &quot;in progress&quot; or &quot;incomplete&quot; instead of a percentage.</li><li>Unbooked time is its own number now: it adds up the hours missing from the last four weeks and gets redder as it grows.</li><li>Time booked to Stenhouse Consulting counts as not billable, and UTO is treated as time off like PTO.</li><li>Book time on a ticket always shows an &quot;Another day&quot; button, so you can pick an earlier date without hunting for it.</li><li>For managers: Team&#x27;s PTO left column no longer changes between loads.</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.4.8-202611161626/TimeBot-Jr-0.4.8.zip" type="application/octet-stream" sparkle:edSignature="l+BPCoRFZ0FFPl1dNUheBddQckyDH7aJit8exJ8FignKwzHrHaGfrNq2E8MqtzOJtVnc2oZ1zrHLOnUaOdkFDA==" length="8395416" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.4.7</title>
       <pubDate>Mon, 16 Nov 2026 13:42:49 -0500</pubDate>
       <sparkle:version>202611161340</sparkle:version>
