@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.4.9</title>
+      <pubDate>Mon, 16 Nov 2026 16:45:40 -0500</pubDate>
+      <sparkle:version>202611161643</sparkle:version>
+      <sparkle:shortVersionString>0.4.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Book time from My time now has the status menu, Close on save and Reuse your last note, the same as on a ticket.</li><li>The pencil on a saved entry now has Set times, so you can change when the work started and stopped.</li><li>A ticket opened from an earlier day in My time now books on that day instead of today.</li><li>Close on save no longer goes missing when ConnectWise is slow to answer as a ticket opens.</li><li>Set times now waits for you to pick a time before Book time turns on.</li><li>New ticket waits for the client&#x27;s contracts before it creates the ticket, and its close chip is now called Close on save.</li><li>After hours and Emergency are no longer offered as your default work type, since they need a start and stop on each entry.</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.4.9-202611161643/TimeBot-Jr-0.4.9.zip" type="application/octet-stream" sparkle:edSignature="uYQcy9MjD4SzwT+PVnNC5Kq5xzloA696LXeajJKqf9Sm1uBumYl8n0EAA3x0tdz7neBWHSOe9skPNuDcDfDfCQ==" length="8436747" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.4.8</title>
       <pubDate>Mon, 16 Nov 2026 16:28:06 -0500</pubDate>
       <sparkle:version>202611161626</sparkle:version>
