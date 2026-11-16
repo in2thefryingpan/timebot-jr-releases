@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.4.7</title>
+      <pubDate>Mon, 16 Nov 2026 13:42:49 -0500</pubDate>
+      <sparkle:version>202611161340</sparkle:version>
+      <sparkle:shortVersionString>0.4.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Restarting the timer on a ticket now carries on from the time you already had, so no part of it gets lost.</li><li>A half-typed note and hours on a ticket are kept if you click away, and come back when you reopen it.</li><li>Cmd-Return now books the time, saves the entry or creates the ticket on whichever form you&#x27;re in.</li><li>Choosing Close on save right after booking time now closes the ticket.</li><li>On clients with more than one contract, Book time waits until the contracts have loaded, so time can&#x27;t go out without one.</li><li>Switching timers keeps you on the ticket you just started, and the earlier one waits in its own tab.</li><li>The Start button on a ticket row now opens the ticket and asks before starting the timer.</li><li>Grey text is darker and easier to read in about 30 places, and High contrast now takes effect the moment you turn it on.</li><li>Quick search, Settings and the menu bar list now grow with your text size, and the sidebar scrolls when it doesn&#x27;t all fit.</li><li>When something can&#x27;t load, the app now says so and offers Try again.</li><li>Client pages open faster.</li><li>For managers: To review keeps your filters and the entry you had open when you come back to it.</li><li>For managers: Team opens at once if you looked at it in the last five minutes, and the refresh arrow reads it fresh.</li><li>Easter eggs!</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.4.7-202611161340/TimeBot-Jr-0.4.7.zip" type="application/octet-stream" sparkle:edSignature="YwrMQv2sqnDKqpmZtXUpTk/uBaHjHDtQk61F0JcnzqqQHJw7WxMpLcMUq2pu2G0NEx9nM3GXzoisz19HhjEmAA==" length="8355422" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.4.6</title>
       <pubDate>Fri, 13 Nov 2026 20:23:12 -0500</pubDate>
       <sparkle:version>202611132020</sparkle:version>
