@@ -1,11 +1,11 @@
 {
-  "version": "0.4.7",
-  "notes": "\u2022 My numbers now follows the week you click in My time, so you can see your numbers for any earlier week.\n\u2022 A week gets a utilization number once it's in, which means 90% of its hours are booked or it's more than four weeks old.\n\u2022 Until a week is in, it says \"in progress\" or \"incomplete\" instead of a percentage.\n\u2022 Unbooked time is its own number now: it adds up the hours missing from the last four weeks and gets redder as it grows.\n\u2022 Time booked to Stenhouse Consulting counts as not billable, and UTO is treated as time off like PTO.\n\u2022 For managers: Team's PTO left column no longer changes between loads.",
-  "pub_date": "2026-11-16T21:32:14Z",
+  "version": "0.4.8",
+  "notes": "\u2022 The pencil on a saved entry now has Set times, so you can change when the work started and stopped.\n\u2022 Close on save no longer goes missing when ConnectWise is slow to answer as a ticket opens.\n\u2022 Close ticket from the right-click menu now picks Closed even with a timer running.\n\u2022 On a phone, booking from My time now lands on the day you're looking at instead of today.\n\u2022 For managers: the hours in To review now have the same minus and plus buttons as everywhere else.",
+  "pub_date": "2026-11-16T21:49:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFgyRDZEZmJjOFpzZjEyMEkrRkdtd0VXWFFVZTVTZDhuRTh3WE4vTUZLVjRwMXdJM0ZQKzJ4SURCQ0hYaFVrRzdxMnMwSlNUNkhWNW0wVXRMbmZmTndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODY0NzI5CWZpbGU6VGltZUJvdC1Kci0wLjQuNy1XaW5kb3dzLXNldHVwLmV4ZQowRjQxSnk5WjVScGJxZmprMHlsK2VxelAwdkw2ZTAySklvWG15T0dYbmk0WEVKeDJ2STNVY3B5cHJXam5oM1cvU3FKdlppd3B2M3drZDRYU3BZK0JEUT09Cg==",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.4.7/TimeBot-Jr-0.4.7-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGZ4eVdpUy9UTDRybk45SmQ4YXY2K3AyR0FlUTlwT1RydU0rQkhUa2txOElVMHMvOXduMkMybHVEalVpSGpOeGJ4ZGRibGhOMnAra3hEblltTStzdWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODY1NzY2CWZpbGU6VGltZUJvdC1Kci0wLjQuOC1XaW5kb3dzLXNldHVwLmV4ZQpqQ0o1d1RzYlpTUDdxZmkzd3h6MDZ1Y1YweU13djRmR09hZTJKSkprVkNIUm5FRjdVYVptZTdjSVlwUGRybmtpSkJYK05TTGM0OVdyWlVBRjl1eE9BUT09Cg==",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.4.8/TimeBot-Jr-0.4.8-Windows-setup.exe"
     }
   }
 }
