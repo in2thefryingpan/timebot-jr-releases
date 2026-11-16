@@ -1,11 +1,11 @@
 {
-  "version": "0.4.5",
-  "notes": "\u2022 TimeBot Jr. starts faster and asks ConnectWise for less, so My time, To review and Support desk load more quickly.\n\u2022 When you use Set times, you can now type the break in quarter hours, up to 12 hours, or step it with the minus and plus buttons. It used to stop at 2 hours.\n\u2022 For clients with a contract for each location, the picker on Book time and New ticket is now called Contract. It lists each contract by place first, like \"Faraway Jackson Hole (Support)\".",
-  "pub_date": "2026-11-14T01:28:05Z",
+  "version": "0.4.6",
+  "notes": "\u2022 Restarting the timer on a ticket now carries on from the time you already had, so no part of it gets lost.\n\u2022 Choosing Close on save right after booking time now closes the ticket.\n\u2022 On clients with more than one contract, Book time waits until the contracts have loaded, so time can't go out without one.\n\u2022 With Set times on, the line under Book time now matches the hours shown beside the time boxes.\n\u2022 When something can't load, like Internal time's codes or a search, the app now says so and offers Try again.\n\u2022 Lists keep their place when you open a ticket beside them.\n\u2022 Editing an entry in My time closes the editor right away, and the total catches up a moment later.\n\u2022 A ticket in its own window and the main window now stay in step when you book time or change the status.\n\u2022 At large text sizes the ticket page moves to one column, so nothing is cut off at the right edge.\n\u2022 For managers: Marking a PO line received in Quoting changes just that line, with no full reload.\n\u2022 Easter eggs!",
+  "pub_date": "2026-11-16T18:46:49Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGVZejRFUXhzYUQ4NXJHaDAyQzRUNmU5MUtKeHF2ejQ1dER4NlhhVTg0dXdGWjgyVkluWm96OFlUemR4dUNOYnprMWoydnBoR09WOUM1Wk9ZMEJRTFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjE5NjgxCWZpbGU6VGltZUJvdC1Kci0wLjQuNS1XaW5kb3dzLXNldHVwLmV4ZQo4L1dQZVZJWFRyNzlNSENmMTNSQWxvbVUwbStFRUM2KzBTeDBGN2J4eVdjVnBqWVFOZWtGcmdPTW5WekZhK2ZXdUpvdzhIQ1E4L0dNenpRZVIrdzZCUT09Cg==",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.4.5/TimeBot-Jr-0.4.5-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFdEODMvRkFqWVNSbUVIUFNLM3BMRmxhRzB0cG05ZUpJenlldkZUQkk4dUZ3SDFNVzB6dU1vZHNWbTA5cVNKUjRJMGJOM2ZnZnVKNXI0ZlNjMDVOUHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODU0ODA1CWZpbGU6VGltZUJvdC1Kci0wLjQuNi1XaW5kb3dzLXNldHVwLmV4ZQpTR3FrSmhHL1pnYS80bFZjRkJuMHJ0aTZuSTlicXMzSG9WOUkrZ1F0M0c5ckJoUDM4RVIybXRoeHFESThYOS9OWGExMmF1T1M4NnVWbkJkckpMZWhCZz09Cg==",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.4.6/TimeBot-Jr-0.4.6-Windows-setup.exe"
     }
   }
 }
