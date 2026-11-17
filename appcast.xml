@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.4.11</title>
+      <pubDate>Mon, 16 Nov 2026 19:21:03 -0500</pubDate>
+      <sparkle:version>202611161919</sparkle:version>
+      <sparkle:shortVersionString>0.4.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>For managers: A week whose timesheet is submitted now counts as complete, even if it&#x27;s a few hours short, and the missing hours count as internal time.</li><li>For managers: On Team, an incomplete week now shows its utilization so far next to the word incomplete.</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.4.11-202611161919/TimeBot-Jr-0.4.11.zip" type="application/octet-stream" sparkle:edSignature="QkflaI1tLlRMh2JCj+op2aS2uM+M+pVKFocOHsEV7kN9QvWEWrlpMEan/eXmYYu9niQuE1JgEqHpNRIn+h63Cg==" length="8818877" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.4.10</title>
       <pubDate>Mon, 16 Nov 2026 18:54:54 -0500</pubDate>
       <sparkle:version>202611161852</sparkle:version>
