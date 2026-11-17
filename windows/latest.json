@@ -1,11 +1,11 @@
 {
-  "version": "0.4.8",
-  "notes": "\u2022 The pencil on a saved entry now has Set times, so you can change when the work started and stopped.\n\u2022 Close on save no longer goes missing when ConnectWise is slow to answer as a ticket opens.\n\u2022 Close ticket from the right-click menu now picks Closed even with a timer running.\n\u2022 On a phone, booking from My time now lands on the day you're looking at instead of today.\n\u2022 For managers: the hours in To review now have the same minus and plus buttons as everywhere else.",
-  "pub_date": "2026-11-16T21:49:30Z",
+  "version": "0.4.9",
+  "notes": "\u2022 My tickets is now called Tickets, and Search finds any ticket, open or closed, along with clients, contacts and, if you use Quoting or Billing, quotes and invoices.\n\u2022 Press T anywhere to search tickets, or O to search clients.\n\u2022 Search remembers the tickets and clients you opened recently, and you can save a search as a list to come back to.\n\u2022 You can now split one booking into a billable part and a part that isn't, with the Split link next to the billing choice.\n\u2022 If a week's timesheet is already submitted in ConnectWise, the app now says so instead of failing quietly, and keeps your time so it isn't lost.\n\u2022 My time shows which weeks are submitted.\n\u2022 Settings and the sign-in screen have a fresh look, and Settings has a new page of tips for getting more out of TimeBot Jr.\n\u2022 Error messages are easier to read on every theme.\n\u2022 Moving around the app has a little motion now, so it's easier to see where you are, and it stays still if your computer is set to reduce motion.\n\u2022 Some pages load a bit faster.\n\u2022 Picking several tickets now offers the same actions in Tickets, Search and Support desk.\n\u2022 For managers: You can now change an entry in To review even after it's marked Ready to bill.",
+  "pub_date": "2026-11-17T00:00:04Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGZ4eVdpUy9UTDRybk45SmQ4YXY2K3AyR0FlUTlwT1RydU0rQkhUa2txOElVMHMvOXduMkMybHVEalVpSGpOeGJ4ZGRibGhOMnAra3hEblltTStzdWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODY1NzY2CWZpbGU6VGltZUJvdC1Kci0wLjQuOC1XaW5kb3dzLXNldHVwLmV4ZQpqQ0o1d1RzYlpTUDdxZmkzd3h6MDZ1Y1YweU13djRmR09hZTJKSkprVkNIUm5FRjdVYVptZTdjSVlwUGRybmtpSkJYK05TTGM0OVdyWlVBRjl1eE9BUT09Cg==",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.4.8/TimeBot-Jr-0.4.8-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFEyVFZEdmwydjI4ZGJkUXdjYkNqbkp3cXpQcDZZM2VrYjJlVzNrb3VOMTFLMzhyYjl1K2tJSzRjejRHajRNTWxlV1Fsdyt3L2dkN1VEakIzRGdrZGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODczNjAwCWZpbGU6VGltZUJvdC1Kci0wLjQuOS1XaW5kb3dzLXNldHVwLmV4ZQpRaVdZdXIyZ2pWb3Y4Nkh1V0tFRmtxNVFjakNNS1BueG1lNVUrTTREYkg0NjNIVXU4a3BNSVNlQUFSVTUzeElxc01qV3hwQWxXaHZ4TUwrNUsyWG9BZz09Cg==",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.4.9/TimeBot-Jr-0.4.9-Windows-setup.exe"
     }
   }
 }
