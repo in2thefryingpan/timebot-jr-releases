@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.4.12</title>
+      <pubDate>Wed, 18 Nov 2026 09:55:41 -0500</pubDate>
+      <sparkle:version>202611180952</sparkle:version>
+      <sparkle:shortVersionString>0.4.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>TimeBot Jr. now downloads its own updates. Click Install update at the bottom of the sidebar to install one right away, or it installs itself overnight while you&#x27;re away.</li><li>Close with a comment is on every ticket&#x27;s right-click and ··· menu: your comment goes on the ticket as an internal note, then the ticket closes.</li><li>After you close a ticket, an Undo button shows at the bottom of the window for a few seconds.</li><li>From Friday on, My time has a Submit this week button, so you can submit your timesheet without going into ConnectWise.</li><li>A ticket number in a note, like #26701, is now a link that opens that ticket.</li><li>Tickets has My tickets and All tickets at the top: All shows everyone&#x27;s, nobody&#x27;s (unassigned) or one person&#x27;s, and Open and Closed switches to tickets closed in the last 30 days.</li><li>Filters on Tickets narrow the list by client, board, status or priority, and Save this view keeps a combination you use often as a one-click chip.</li><li>Search is simpler, with a clear box to type in and the extra choices under Ticket options, and its tickets show when they were created and last updated again.</li><li>The arrows for moving between weeks and months are bigger.</li><li>Clicking TimeBot Jr. in the Dock brings the window back where you left it instead of jumping to Tickets.</li><li>A ticket that had another ticket merged into it now shows both emails.</li><li>Booking time on a closed ticket now puts it back to closed afterwards, so you don&#x27;t have to close it again.</li><li>Booking time on a New or Assigned ticket moves it to In Progress.</li><li>A split booking can now give its no charge part a note of its own.</li><li>For managers: Invoice dates in Billing now match ConnectWise; they were showing a day early.</li><li>For managers: Each client&#x27;s page has a Revenue card with what was invoiced each month, what&#x27;s still owed, its invoices, and how the client compares with the average client.</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.4.12-202611180952/TimeBot-Jr-0.4.12.zip" type="application/octet-stream" sparkle:edSignature="X+J/m1To7rLuuXzPt2ZzS9BwUh+xgY2DS3aMvbkjwTssWOzjY3s179sMrhYN7G0AEk1CmbjKmMkg29PGl9lsAQ==" length="9099805" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.4.11</title>
       <pubDate>Mon, 16 Nov 2026 19:21:03 -0500</pubDate>
       <sparkle:version>202611161919</sparkle:version>
