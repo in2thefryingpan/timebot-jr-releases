@@ -1,11 +1,11 @@
 {
-  "version": "0.4.11",
-  "notes": "\u2022 Updates now download and install themselves. This is the last one you click.\n\u2022 Tickets has My tickets and All tickets, with Filters and saved views.\n\u2022 Close with a comment, Undo after closing, and Submit this week are new.\n\u2022 Booking time on a closed ticket puts it back to closed afterwards.\n\u2022 The full list is in Henry's email.",
-  "pub_date": "2026-11-18T15:33:28Z",
+  "version": "0.4.13",
+  "notes": "\u2022 If ConnectWise says it's getting too many requests, TimeBot Jr. now waits and tries again by itself, and a booking waits in line instead of failing.\n\u2022 A long message, like an update's notes, now scrolls instead of pushing its buttons off the screen.\n\u2022 For managers: On Team, clicking someone's open ticket count opens their tickets.",
+  "pub_date": "2026-11-19T17:15:26Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFRHNmpxNTY5bDJuZXNuRWdCSUlSWkFjZUZQUytWeC9Bcll4WU1TV0hyRWorZkVBb1FjYWZ6OVVtZ2hnalBZOXFxSmN4M21tRjM5a2s0Q1V3aytGWGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDE2MDA0CWZpbGU6VGltZUJvdC1Kci0wLjQuMTEtV2luZG93cy1zZXR1cC5leGUKVjFXUXNITVRjWlZUZFBwUk8xbmg4K3BIM3JNZFdtNXVoYVFjcjZYM3BaMkI2cXk5T0lINFJvTXN5SjlZNXpCV2dydTU3cms4eVZ5cjlFTC9TVVYrRFE9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.4.11/TimeBot-Jr-0.4.11-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFVQVDYyVCtUbHhTWEV6ZTMyQlJjVDJReVdoa0swUEVFQ05TbU9SZG5PaGN4RGQxellGdW02UUtxVEZlN3MrRW9nVTBsaVNzVEwxdnpaVkw5ZTR1SkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTA4NTIwCWZpbGU6VGltZUJvdC1Kci0wLjQuMTMtV2luZG93cy1zZXR1cC5leGUKM1RWb3pmbk9mQ1o3a0FOUVo5M2N1R0k0enRhRTFaWkNmSk5OVXFrd2pFa3BaRERmcTBsczZ4eWoxWGZPTDliWGJrVmFBYmlBN0h5SXQyclZqZUI4QkE9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.4.13/TimeBot-Jr-0.4.13-Windows-setup.exe"
     }
   }
 }
