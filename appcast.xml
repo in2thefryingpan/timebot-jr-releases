@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.4.13</title>
+      <pubDate>Thu, 19 Nov 2026 12:10:39 -0500</pubDate>
+      <sparkle:version>202611191207</sparkle:version>
+      <sparkle:shortVersionString>0.4.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>If ConnectWise says it&#x27;s getting too many requests, TimeBot Jr. now waits and tries again by itself, and a booking waits in line instead of failing.</li><li>For managers: On Team, clicking someone&#x27;s open ticket count opens their tickets.</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.4.13-202611191207/TimeBot-Jr-0.4.13.zip" type="application/octet-stream" sparkle:edSignature="D+NDBdqcklxVhX/3PjU89K5xl/dhbQMOennEqP0dtguZcItrZ4xPk5TowtMvLDIBlmZjxkfISm9qRotDW5nfCQ==" length="9119692" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.4.12</title>
       <pubDate>Wed, 18 Nov 2026 09:55:41 -0500</pubDate>
       <sparkle:version>202611180952</sparkle:version>
