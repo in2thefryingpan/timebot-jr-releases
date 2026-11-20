@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.4.14</title>
+      <pubDate>Fri, 20 Nov 2026 14:34:52 -0500</pubDate>
+      <sparkle:version>202611201432</sparkle:version>
+      <sparkle:shortVersionString>0.4.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Start and stop times no longer show &quot;Pick one&quot; after TimeBot Jr. has been open overnight. Your times were always saved correctly; only the labels were wrong.</p>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.4.14-202611201432/TimeBot-Jr-0.4.14.zip" type="application/octet-stream" sparkle:edSignature="n78pVnxgrP9XnHABbc3w7BLoBWmQ98k1ERSv4u7m9IasKvK9pcEntAdNw1tFdZBV3I2HnLtsArOn0G1p7I9EBw==" length="9120650" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.4.13</title>
       <pubDate>Thu, 19 Nov 2026 12:10:39 -0500</pubDate>
       <sparkle:version>202611191207</sparkle:version>
