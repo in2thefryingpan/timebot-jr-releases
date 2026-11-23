@@ -1,11 +1,11 @@
 {
-  "version": "0.4.13",
-  "notes": "\u2022 If ConnectWise says it's getting too many requests, TimeBot Jr. now waits and tries again by itself, and a booking waits in line instead of failing.\n\u2022 A long message, like an update's notes, now scrolls instead of pushing its buttons off the screen.\n\u2022 For managers: On Team, clicking someone's open ticket count opens their tickets.",
-  "pub_date": "2026-11-19T17:15:26Z",
+  "version": "0.4.15",
+  "notes": "\u2022 On a new ticket, type a few letters of the client's name and press Enter to pick it.\n\u2022 If you leave the app open overnight, the next morning's time now lands on the right day.\n\u2022 The number next to Tickets is how many tickets are waiting on you. Settings now says which tickets are included.\n\u2022 Once your week is submitted, the app says it can't take more time for that week.",
+  "pub_date": "2026-11-23T13:52:03Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UFVQVDYyVCtUbHhTWEV6ZTMyQlJjVDJReVdoa0swUEVFQ05TbU9SZG5PaGN4RGQxellGdW02UUtxVEZlN3MrRW9nVTBsaVNzVEwxdnpaVkw5ZTR1SkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTA4NTIwCWZpbGU6VGltZUJvdC1Kci0wLjQuMTMtV2luZG93cy1zZXR1cC5leGUKM1RWb3pmbk9mQ1o3a0FOUVo5M2N1R0k0enRhRTFaWkNmSk5OVXFrd2pFa3BaRERmcTBsczZ4eWoxWGZPTDliWGJrVmFBYmlBN0h5SXQyclZqZUI4QkE9PQo=",
-      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.4.13/TimeBot-Jr-0.4.13-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRVB1ZFV0S0N5UGJleUpwajk5aDBFRjNTVEVycitVbTErdlhmOXVOWWpzTmI5K2FYYUJiUHBBWW0veHI5OEJOU1RpMkh2OUluN1pUTGpzS2RNZlltSWNSV2hteWprM0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDQxOTIwCWZpbGU6VGltZUJvdC1Kci0wLjQuMTUtV2luZG93cy1zZXR1cC5leGUKZUFEaExKUHRPNmR6d1dpL3RVeTRIZzRYNlJtcWRYMmM4ZHFIVHlQMEQweTcvSkdMeDNMQ3AyT2hxeThjcmFLL0tBVHowNFpQZ1pLRlpMZVJnWmJ4QUE9PQo=",
+      "url": "https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/windows-0.4.15/TimeBot-Jr-0.4.15-Windows-setup.exe"
     }
   }
 }
