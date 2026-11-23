@@ -3,6 +3,15 @@
   <channel>
     <title>TimeBot Jr.</title>
     <item>
+      <title>TimeBot Jr. 0.4.15</title>
+      <pubDate>Mon, 23 Nov 2026 08:46:17 -0500</pubDate>
+      <sparkle:version>202611230844</sparkle:version>
+      <sparkle:shortVersionString>0.4.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The number next to Tickets is how many tickets are waiting on you. Settings now says which tickets are included.</li><li>On a new ticket, type a few letters of the client&#x27;s name and press Return to pick it.</li><li>Maintenance tickets now start on the Maintenance work type. Booking Scheduled After Hours on one no longer asks about it.</li><li>Once your week is submitted, the app says it can&#x27;t take more time for that week.</li><li>If you leave the app open overnight, the next morning&#x27;s time now lands on the right day.</li><li>If you stop a timer and quit before booking, the hours are still there when you come back.</li><li>After you submit your week, To review shows your clients&#x27; entries right away.</li><li>At the largest text sizes, the sidebar shows when there&#x27;s more below, and a ticket opened from My time uses the full window.</li></ul>]]></description>
+      <enclosure url="https://github.com/in2thefryingpan/timebot-jr-releases/releases/download/mac-0.4.15-202611230844/TimeBot-Jr-0.4.15.zip" type="application/octet-stream" sparkle:edSignature="WPAyO40h9PxXnov9hBBgsdIoW6IFA+sbCND6M5iYF+ms2pCe6OxDy7LLoshdmoeJQCmsTc5YdJR9qWAzqPsbAg==" length="9454415" />
+    </item>
+    <item>
       <title>TimeBot Jr. 0.4.14</title>
       <pubDate>Fri, 20 Nov 2026 14:34:52 -0500</pubDate>
       <sparkle:version>202611201432</sparkle:version>
